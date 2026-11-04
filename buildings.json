@@ -243,6 +243,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/20-15-scenic-coaster/winter.png",
+    "frame_size": [
+     168,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1303,6 +1320,50 @@
   }
  },
  {
+  "id": "21-06-mud-tower-town",
+  "name": "Mud tower town",
+  "tier": 21,
+  "setting": "desert",
+  "category": "Desert oasis",
+  "complexity": 222,
+  "seasons": {
+   "summer": {
+    "image": "buildings/21-06-mud-tower-town/summer.png",
+    "frame_size": [
+     182,
+     182
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/21-06-mud-tower-town/winter.png",
+    "frame_size": [
+     182,
+     182
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "23-14-lift-net-cabin",
   "name": "Lift-net cabin",
   "tier": 23,
@@ -1875,6 +1936,50 @@
   }
  },
  {
+  "id": "09-13-wavy-fronted-block-with-curved-balconies",
+  "name": "Wavy-fronted block with curved balconies",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 204,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-13-wavy-fronted-block-with-curved-balconies/summer.png",
+    "frame_size": [
+     146,
+     156
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-13-wavy-fronted-block-with-curved-balconies/winter.png",
+    "frame_size": [
+     146,
+     156
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "09-18-twin-gabled-narrow-block",
   "name": "Twin-gabled narrow block",
   "tier": 9,
@@ -1904,6 +2009,50 @@
     "frame_size": [
      98,
      141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-10-park-playground",
+  "name": "Park playground",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 200,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-10-park-playground/summer.png",
+    "frame_size": [
+     168,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/16-10-park-playground/winter.png",
+    "frame_size": [
+     168,
+     120
     ],
     "angles": [
      "s",
@@ -2403,6 +2552,50 @@
   }
  },
  {
+  "id": "28-02-waterfall-isle",
+  "name": "Waterfall isle",
+  "tier": 28,
+  "setting": "fantasy",
+  "category": "Fantasy",
+  "complexity": 181,
+  "seasons": {
+   "summer": {
+    "image": "buildings/28-02-waterfall-isle/summer.png",
+    "frame_size": [
+     162,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/28-02-waterfall-isle/winter.png",
+    "frame_size": [
+     162,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "11-06-ferris-wheel",
   "name": "Ferris wheel",
   "tier": 11,
@@ -2491,33 +2684,6 @@
   }
  },
  {
-  "id": "28-02-waterfall-isle",
-  "name": "Waterfall isle",
-  "tier": 28,
-  "setting": "fantasy",
-  "category": "Fantasy",
-  "complexity": 179,
-  "seasons": {
-   "summer": {
-    "image": "buildings/28-02-waterfall-isle/summer.png",
-    "frame_size": [
-     162,
-     159
-    ],
-    "angles": [
-     "s",
-     "se",
-     "e",
-     "ne",
-     "n",
-     "nw",
-     "w",
-     "sw"
-    ]
-   }
-  }
- },
- {
   "id": "09-02-block-with-a-corner-dome",
   "name": "Block with a corner dome",
   "tier": 9,
@@ -2591,6 +2757,50 @@
     "frame_size": [
      134,
      114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-14-university-with-a-quad-and-a-tower",
+  "name": "University with a quad and a tower",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 177,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-14-university-with-a-quad-and-a-tower/summer.png",
+    "frame_size": [
+     174,
+     184
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-14-university-with-a-quad-and-a-tower/winter.png",
+    "frame_size": [
+     174,
+     184
     ],
     "angles": [
      "s",
@@ -5225,6 +5435,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/25-18-boarding-bridge/winter.png",
+    "frame_size": [
+     178,
+     181
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -6206,6 +6433,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-19-round-tower-apartments/summer.png",
+    "frame_size": [
+     106,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-19-round-tower-apartments/winter.png",
     "frame_size": [
      106,
      159
@@ -7940,6 +8184,50 @@
   }
  },
  {
+  "id": "21-09-mud-hall",
+  "name": "Mud hall",
+  "tier": 21,
+  "setting": "desert",
+  "category": "Desert oasis",
+  "complexity": 115,
+  "seasons": {
+   "summer": {
+    "image": "buildings/21-09-mud-hall/summer.png",
+    "frame_size": [
+     180,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/21-09-mud-hall/winter.png",
+    "frame_size": [
+     180,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "25-00-mooring-tower",
   "name": "Mooring tower",
   "tier": 25,
@@ -9348,6 +9636,50 @@
   }
  },
  {
+  "id": "27-17-ice-harvest-house",
+  "name": "Ice harvest house",
+  "tier": 27,
+  "setting": "northern",
+  "category": "Northern",
+  "complexity": 108,
+  "seasons": {
+   "summer": {
+    "image": "buildings/27-17-ice-harvest-house/summer.png",
+    "frame_size": [
+     182,
+     145
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/27-17-ice-harvest-house/winter.png",
+    "frame_size": [
+     182,
+     145
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "30-00-scroll-top-saloon",
   "name": "Scroll-top saloon",
   "tier": 30,
@@ -9641,6 +9973,50 @@
     "frame_size": [
      172,
      142
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "27-06-ice-palace",
+  "name": "Ice palace",
+  "tier": 27,
+  "setting": "northern",
+  "category": "Northern",
+  "complexity": 106,
+  "seasons": {
+   "summer": {
+    "image": "buildings/27-06-ice-palace/summer.png",
+    "frame_size": [
+     162,
+     170
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/27-06-ice-palace/winter.png",
+    "frame_size": [
+     162,
+     170
     ],
     "angles": [
      "s",
@@ -10213,6 +10589,50 @@
     "frame_size": [
      134,
      132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-16-dyers-yard",
+  "name": "Dyer's yard",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 102,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-16-dyers-yard/summer.png",
+    "frame_size": [
+     142,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-16-dyers-yard/winter.png",
+    "frame_size": [
+     142,
+     99
     ],
     "angles": [
      "s",
@@ -10961,6 +11381,50 @@
     "frame_size": [
      90,
      129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-02-stable",
+  "name": "Stable",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 96,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-02-stable/summer.png",
+    "frame_size": [
+     100,
+     74
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-02-stable/winter.png",
+    "frame_size": [
+     100,
+     74
     ],
     "angles": [
      "s",
@@ -12583,6 +13047,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/26-03-sky-hut/winter.png",
+    "frame_size": [
+     140,
+     161
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -12704,6 +13185,50 @@
     "frame_size": [
      114,
      119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-11-artists-atelier-with-one-huge-sloped-window",
+  "name": "Artist's atelier with one huge sloped window",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 90,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-11-artists-atelier-with-one-huge-sloped-window/summer.png",
+    "frame_size": [
+     96,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-11-artists-atelier-with-one-huge-sloped-window/winter.png",
+    "frame_size": [
+     96,
+     110
     ],
     "angles": [
      "s",
@@ -12924,6 +13449,50 @@
     "frame_size": [
      150,
      118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "21-19-water-jar-tower",
+  "name": "Water-jar tower",
+  "tier": 21,
+  "setting": "desert",
+  "category": "Desert oasis",
+  "complexity": 89,
+  "seasons": {
+   "summer": {
+    "image": "buildings/21-19-water-jar-tower/summer.png",
+    "frame_size": [
+     172,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/21-19-water-jar-tower/winter.png",
+    "frame_size": [
+     172,
+     146
     ],
     "angles": [
      "s",
@@ -13467,6 +14036,50 @@
   }
  },
  {
+  "id": "26-04-voyaging-canoe",
+  "name": "Voyaging canoe",
+  "tier": 26,
+  "setting": "tropical",
+  "category": "Tropical",
+  "complexity": 87,
+  "seasons": {
+   "summer": {
+    "image": "buildings/26-04-voyaging-canoe/summer.png",
+    "frame_size": [
+     174,
+     171
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/26-04-voyaging-canoe/winter.png",
+    "frame_size": [
+     174,
+     171
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-18-bee-shed",
   "name": "Bee shed",
   "tier": 3,
@@ -13628,6 +14241,50 @@
     "frame_size": [
      172,
      180
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "20-16-sea-organ",
+  "name": "Sea organ",
+  "tier": 20,
+  "setting": "seaside",
+  "category": "Seaside",
+  "complexity": 86,
+  "seasons": {
+   "summer": {
+    "image": "buildings/20-16-sea-organ/summer.png",
+    "frame_size": [
+     158,
+     154
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/20-16-sea-organ/winter.png",
+    "frame_size": [
+     158,
+     154
     ],
     "angles": [
      "s",
@@ -13980,6 +14637,50 @@
     "frame_size": [
      171,
      125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-02-broken-colonnade",
+  "name": "Broken colonnade",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 84,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-02-broken-colonnade/summer.png",
+    "frame_size": [
+     158,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/16-02-broken-colonnade/winter.png",
+    "frame_size": [
+     158,
+     141
     ],
     "angles": [
      "s",
@@ -16063,33 +16764,6 @@
   }
  },
  {
-  "id": "03-02-stable",
-  "name": "Stable",
-  "tier": 3,
-  "setting": "rural",
-  "category": "Barns",
-  "complexity": 76,
-  "seasons": {
-   "summer": {
-    "image": "buildings/03-02-stable/summer.png",
-    "frame_size": [
-     100,
-     74
-    ],
-    "angles": [
-     "s",
-     "se",
-     "e",
-     "ne",
-     "n",
-     "nw",
-     "w",
-     "sw"
-    ]
-   }
-  }
- },
- {
   "id": "16-01-moon-gate",
   "name": "Moon gate",
   "tier": 16,
@@ -16143,6 +16817,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/21-13-step-pyramid/summer.png",
+    "frame_size": [
+     188,
+     154
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/21-13-step-pyramid/winter.png",
     "frame_size": [
      188,
      154
@@ -17202,6 +17893,50 @@
     "frame_size": [
      146,
      183
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "20-11-camera-obscura",
+  "name": "Camera obscura",
+  "tier": 20,
+  "setting": "seaside",
+  "category": "Seaside",
+  "complexity": 72,
+  "seasons": {
+   "summer": {
+    "image": "buildings/20-11-camera-obscura/summer.png",
+    "frame_size": [
+     122,
+     151
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/20-11-camera-obscura/winter.png",
+    "frame_size": [
+     122,
+     151
     ],
     "angles": [
      "s",
@@ -18736,6 +19471,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/21-02-sugarloaf-village/winter.png",
+    "frame_size": [
+     168,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -19379,6 +20131,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/28-14-portal-ring/winter.png",
+    "frame_size": [
+     140,
+     151
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -19832,6 +20601,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/16-08-armillary-sphere/summer.png",
+    "frame_size": [
+     144,
+     157
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/16-08-armillary-sphere/winter.png",
     "frame_size": [
      144,
      157
@@ -20343,6 +21129,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/28-12-hourglass-tower/summer.png",
+    "frame_size": [
+     124,
+     169
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/28-12-hourglass-tower/winter.png",
     "frame_size": [
      124,
      169
@@ -21426,6 +22229,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/28-11-bog-stilt-hut/summer.png",
+    "frame_size": [
+     132,
+     152
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/28-11-bog-stilt-hut/winter.png",
     "frame_size": [
      132,
      152
@@ -23139,6 +23959,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/11-09-fortune-tellers-tent/winter.png",
+    "frame_size": [
+     86,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -23304,6 +24141,50 @@
     "frame_size": [
      162,
      104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-06-arch-dam",
+  "name": "Arch dam",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 46,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-06-arch-dam/summer.png",
+    "frame_size": [
+     182,
+     151
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/13-06-arch-dam/winter.png",
+    "frame_size": [
+     182,
+     151
     ],
     "angles": [
      "s",
@@ -23935,6 +24816,50 @@
   }
  },
  {
+  "id": "29-08-drowned-temple",
+  "name": "Drowned temple",
+  "tier": 29,
+  "setting": "ruins",
+  "category": "Ancient ruins",
+  "complexity": 42,
+  "seasons": {
+   "summer": {
+    "image": "buildings/29-08-drowned-temple/summer.png",
+    "frame_size": [
+     152,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/29-08-drowned-temple/winter.png",
+    "frame_size": [
+     152,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "29-10-holed-stone-circle",
   "name": "Holed-stone circle",
   "tier": 29,
@@ -24516,6 +25441,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/29-15-victory-column/summer.png",
+    "frame_size": [
+     136,
+     161
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/29-15-victory-column/winter.png",
     "frame_size": [
      136,
      161
@@ -25291,6 +26233,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/29-07-root-temple/summer.png",
+    "frame_size": [
+     142,
+     164
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/29-07-root-temple/winter.png",
     "frame_size": [
      142,
      164
