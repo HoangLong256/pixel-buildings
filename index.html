@@ -112,39 +112,55 @@ function draw() {
 }
 
 function open(e) {
-  let angle = 'se';
   const box = $('box');
-  const paint = () => {
-    box.replaceChildren();
-    const top = document.createElement('div'); top.className = 'top';
-    const h = document.createElement('h2'); h.textContent = e.name;
-    const x = document.createElement('button'); x.className = 'chip'; x.type = 'button'; x.textContent = 'Close'; x.onclick = () => box.close();
-    top.append(h, x);
-    const big = document.createElement('div'); big.className = 'big';
-    for (const season of Object.keys(e.seasons)) {
-      const p = document.createElement('div'); p.className = 'pic ' + season;
-      const [w, hh] = e.seasons[season].frame_size;
-      const el = sprite(e, season, angle, Math.max(1, Math.min(3, Math.floor(Math.min(250 / w, 280 / hh)))));
-      el.style.backgroundImage = `url(${el.dataset.src})`;
-      p.append(el); big.append(p);
-    }
-    const turn = document.createElement('div'); turn.className = 'row';
-    for (const a of ANGLES) {
-      const b = document.createElement('button'); b.className = 'chip'; b.type = 'button'; b.textContent = a.toUpperCase(); b.title = NAMES[a];
-      b.setAttribute('aria-pressed', a === angle); b.onclick = () => { angle = a; paint(); };
-      turn.append(b);
-    }
-    const files = document.createElement('div'); files.className = 'row';
-    files.append('Files: ');
-    for (const [season, s] of Object.entries(e.seasons)) {
-      for (const [label, href] of [[`${season} PNG`, s.image], [`${season} JSON`, s.image.replace('.png', '.json')]]) {
-        const a = document.createElement('a'); a.href = href; a.download = ''; a.textContent = label;
-        files.append(a);
-      }
-    }
-    box.append(top, big, turn, files);
+  let angle = 'se', timer = null;
+  const views = [], chipsByAngle = {};
+  const top = document.createElement('div'); top.className = 'top';
+  const h = document.createElement('h2'); h.textContent = e.name;
+  const spin = document.createElement('button'); spin.className = 'chip'; spin.type = 'button';
+  const x = document.createElement('button'); x.className = 'chip'; x.type = 'button'; x.textContent = 'Close'; x.onclick = () => box.close();
+  top.append(h, spin, x);
+  const big = document.createElement('div'); big.className = 'big';
+  for (const season of Object.keys(e.seasons)) {
+    const p = document.createElement('div'); p.className = 'pic ' + season;
+    const s = e.seasons[season];
+    const [w, hh] = s.frame_size;
+    const zoom = Math.max(1, Math.min(3, Math.floor(Math.min(250 / w, 280 / hh))));
+    const el = sprite(e, season, angle, zoom);
+    el.style.backgroundImage = `url(${el.dataset.src})`;
+    views.push({el, s, step: hh * zoom});
+    p.append(el); big.append(p);
+  }
+  const show = a => {
+    angle = a;
+    for (const v of views) v.el.style.backgroundPosition = `0 ${-v.s.angles.indexOf(a) * v.step}px`;
+    for (const [k, b] of Object.entries(chipsByAngle)) b.setAttribute('aria-pressed', k === a);
   };
-  paint();
+  const turning = on => {
+    clearInterval(timer); timer = null;
+    if (on) timer = setInterval(() => show(ANGLES[(ANGLES.indexOf(angle) + 1) % ANGLES.length]), 500);
+    spin.textContent = on ? 'Pause' : 'Rotate';
+    spin.setAttribute('aria-pressed', on);
+  };
+  spin.onclick = () => turning(!timer);
+  const turn = document.createElement('div'); turn.className = 'row';
+  for (const a of ANGLES) {
+    const b = document.createElement('button'); b.className = 'chip'; b.type = 'button'; b.textContent = a.toUpperCase(); b.title = NAMES[a];
+    b.onclick = () => { turning(false); show(a); };
+    chipsByAngle[a] = b; turn.append(b);
+  }
+  const files = document.createElement('div'); files.className = 'row';
+  files.append('Files: ');
+  for (const [season, s] of Object.entries(e.seasons)) {
+    for (const [label, href] of [[`${season} PNG`, s.image], [`${season} JSON`, s.image.replace('.png', '.json')]]) {
+      const a = document.createElement('a'); a.href = href; a.download = ''; a.textContent = label;
+      files.append(a);
+    }
+  }
+  box.replaceChildren(top, big, turn, files);
+  box.onclose = () => clearInterval(timer);
+  show(angle);
+  turning(!matchMedia('(prefers-reduced-motion: reduce)').matches);
   box.showModal();
 }
 
