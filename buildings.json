@@ -23,6 +23,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-08-twin-towers-joined-by-a-bridge/winter.png",
+    "frame_size": [
+     138,
+     191
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -36,6 +53,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-04-courtyard-block-in-a-u/summer.png",
+    "frame_size": [
+     144,
+     150
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-04-courtyard-block-in-a-u/winter.png",
     "frame_size": [
      144,
      150
@@ -77,6 +111,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-09-mansion-block-with-bay-windows-up-every-floor/winter.png",
+    "frame_size": [
+     134,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -90,6 +141,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-16-hospital-with-two-long-wings/summer.png",
+    "frame_size": [
+     168,
+     136
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-16-hospital-with-two-long-wings/winter.png",
     "frame_size": [
      168,
      136
@@ -131,6 +199,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-07-tenement-with-outside-galleries/winter.png",
+    "frame_size": [
+     148,
+     154
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -144,6 +229,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-05-stepped-terraces-with-gardens-at-each-level/summer.png",
+    "frame_size": [
+     166,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-05-stepped-terraces-with-gardens-at-each-level/winter.png",
     "frame_size": [
      166,
      153
@@ -185,6 +287,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-16-block-with-a-village-of-shacks-on-its-roof/winter.png",
+    "frame_size": [
+     134,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -198,6 +317,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-14-workers-block-with-outside-iron-stairs/summer.png",
+    "frame_size": [
+     132,
+     149
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-14-workers-block-with-outside-iron-stairs/winter.png",
     "frame_size": [
      132,
      149
@@ -239,6 +375,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-15-hanging-garden-block/winter.png",
+    "frame_size": [
+     122,
+     149
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -252,6 +405,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-12-arcaded-block-over-shops/summer.png",
+    "frame_size": [
+     140,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-12-arcaded-block-over-shops/winter.png",
     "frame_size": [
      140,
      143
@@ -293,6 +463,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-18-twin-gabled-narrow-block/winter.png",
+    "frame_size": [
+     98,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -306,6 +493,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-06-rounded-flatiron-corner-block/summer.png",
+    "frame_size": [
+     142,
+     181
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-06-rounded-flatiron-corner-block/winter.png",
     "frame_size": [
      142,
      181
@@ -347,6 +551,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-02-block-with-a-corner-dome/winter.png",
+    "frame_size": [
+     114,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -360,6 +581,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/09-11-hillside-block-stacked-up-a-slope/summer.png",
+    "frame_size": [
+     176,
+     158
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/09-11-hillside-block-stacked-up-a-slope/winter.png",
     "frame_size": [
      176,
      158
@@ -401,6 +639,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-00-mansard-block/winter.png",
+    "frame_size": [
+     90,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -414,6 +669,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-12-garden-inn-with-a-long-pergola-and-tables/summer.png",
+    "frame_size": [
+     146,
+     106
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-12-garden-inn-with-a-long-pergola-and-tables/winter.png",
     "frame_size": [
      146,
      106
@@ -455,6 +727,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-07-terrace-of-three-houses-of-different-heights/winter.png",
+    "frame_size": [
+     118,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -482,6 +771,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-01-brick-block/winter.png",
+    "frame_size": [
+     90,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -495,6 +801,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-06-city-hall-with-a-tall-clock-tower/summer.png",
+    "frame_size": [
+     148,
+     179
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-06-city-hall-with-a-tall-clock-tower/winter.png",
     "frame_size": [
      148,
      179
@@ -580,6 +903,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-18-arcade-house-over-a-covered-walk/winter.png",
+    "frame_size": [
+     118,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -593,6 +933,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-08-glass-arcade-gallery/summer.png",
+    "frame_size": [
+     166,
+     158
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-08-glass-arcade-gallery/winter.png",
     "frame_size": [
      166,
      158
@@ -664,6 +1021,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-07-galleried-inn-round-a-court/summer.png",
+    "frame_size": [
+     146,
+     116
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-07-galleried-inn-round-a-court/winter.png",
     "frame_size": [
      146,
      116
@@ -837,6 +1211,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/04-19-ropewalk/winter.png",
+    "frame_size": [
+     166,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -891,6 +1282,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-18-pilgrim-hostel-with-a-cloister-walk/winter.png",
+    "frame_size": [
+     146,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -918,6 +1326,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-09-twin-bay-house/winter.png",
+    "frame_size": [
+     94,
+     100
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -931,6 +1356,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-19-broadcasting-hall-with-a-lattice-mast/summer.png",
+    "frame_size": [
+     158,
+     186
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-19-broadcasting-hall-with-a-lattice-mast/winter.png",
     "frame_size": [
      158,
      186
@@ -1043,6 +1485,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-16-airship-terminal-with-a-mooring-mast/winter.png",
+    "frame_size": [
+     162,
+     199
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1070,6 +1529,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-17-hunting-lodge-with-a-long-log-front/winter.png",
+    "frame_size": [
+     149,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1083,6 +1559,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/07-17-courtyard-house-with-an-inner-tree/summer.png",
+    "frame_size": [
+     122,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-17-courtyard-house-with-an-inner-tree/winter.png",
     "frame_size": [
      122,
      109
@@ -1154,6 +1647,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-11-crooked-inn/summer.png",
+    "frame_size": [
+     104,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-11-crooked-inn/winter.png",
     "frame_size": [
      104,
      123
@@ -1266,6 +1776,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/08-12-customs-house-with-a-flagpole-tower/winter.png",
+    "frame_size": [
+     148,
+     175
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1364,6 +1891,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-02-grand-hotel/winter.png",
+    "frame_size": [
+     124,
+     148
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1435,6 +1979,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-06-corner-house-with-an-oriel-turret/winter.png",
+    "frame_size": [
+     102,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1475,6 +2036,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-09-museum-with-long-side-galleries/summer.png",
+    "frame_size": [
+     178,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-09-museum-with-long-side-galleries/winter.png",
     "frame_size": [
      178,
      129
@@ -1560,6 +2138,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-19-tower-house-with-a-roof-lookout/winter.png",
+    "frame_size": [
+     86,
+     145
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1573,6 +2168,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-07-cathedral-with-a-rose-window-and-a-spire/summer.png",
+    "frame_size": [
+     172,
+     190
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-07-cathedral-with-a-rose-window-and-a-spire/winter.png",
     "frame_size": [
      172,
      190
@@ -1702,6 +2314,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-05-opera-house-with-a-stepped-roof/winter.png",
+    "frame_size": [
+     166,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -1715,6 +2344,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-16-ferry-inn-with-a-jetty-and-a-moored-boat/summer.png",
+    "frame_size": [
+     154,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-16-ferry-inn-with-a-jetty-and-a-moored-boat/winter.png",
     "frame_size": [
      154,
      112
@@ -1932,6 +2578,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-00-railway-station/winter.png",
+    "frame_size": [
+     110,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2047,6 +2710,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-06-three-gabled-pub/winter.png",
+    "frame_size": [
+     114,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2060,6 +2740,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-13-harbour-office-with-a-lighthouse-tower/summer.png",
+    "frame_size": [
+     132,
+     157
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-13-harbour-office-with-a-lighthouse-tower/winter.png",
     "frame_size": [
      132,
      157
@@ -2101,6 +2798,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-15-science-museum-with-a-giant-orrery-on-the-roof/winter.png",
+    "frame_size": [
+     154,
+     180
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2114,6 +2828,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-04-arch-inn/summer.png",
+    "frame_size": [
+     132,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-04-arch-inn/winter.png",
     "frame_size": [
      132,
      118
@@ -2168,6 +2899,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/07-13-roof-garden-house-with-trees-on-top/summer.png",
+    "frame_size": [
+     94,
+     108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-13-roof-garden-house-with-trees-on-top/winter.png",
     "frame_size": [
      94,
      108
@@ -2297,6 +3045,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-09-corner-butcher-with-a-long-wrapped-awning/winter.png",
+    "frame_size": [
+     122,
+     103
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2395,6 +3160,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-12-iron-balcony-house/winter.png",
+    "frame_size": [
+     98,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2408,6 +3190,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-04-fire-station-with-a-hose-tower/summer.png",
+    "frame_size": [
+     128,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-04-fire-station-with-a-hose-tower/winter.png",
     "frame_size": [
      128,
      146
@@ -2449,6 +3248,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-10-artists-lofts-with-huge-windows/winter.png",
+    "frame_size": [
+     134,
+     144
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2476,6 +3292,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-05-canal-house/winter.png",
+    "frame_size": [
+     96,
+     113
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2489,6 +3322,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-18-town-gate/summer.png",
+    "frame_size": [
+     154,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-18-town-gate/winter.png",
     "frame_size": [
      154,
      159
@@ -2618,6 +3468,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-12-grand-observatory-on-a-terrace/winter.png",
+    "frame_size": [
+     172,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2658,6 +3525,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-13-bank-with-giant-columns/summer.png",
+    "frame_size": [
+     172,
+     154
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-13-bank-with-giant-columns/winter.png",
     "frame_size": [
      172,
      154
@@ -2743,6 +3627,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-07-tea-house-with-deep-upturned-eaves-and-a-veranda/winter.png",
+    "frame_size": [
+     118,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2756,6 +3657,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-05-schoolhouse-with-a-bell-cote/summer.png",
+    "frame_size": [
+     126,
+     97
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-05-schoolhouse-with-a-bell-cote/winter.png",
     "frame_size": [
      126,
      97
@@ -2841,6 +3759,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/09-03-balcony-block/winter.png",
+    "frame_size": [
+     90,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2868,6 +3803,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-04-merchants-house-with-a-stepped-gable/winter.png",
+    "frame_size": [
+     94,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -2881,6 +3833,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/07-16-one-room-wide-tall-house/summer.png",
+    "frame_size": [
+     68,
+     133
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-16-one-room-wide-tall-house/winter.png",
     "frame_size": [
      68,
      133
@@ -3054,6 +4023,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-08-crooked-bookshop/winter.png",
+    "frame_size": [
+     90,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3067,6 +4053,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-18-botanical-glasshouse-with-a-great-dome/summer.png",
+    "frame_size": [
+     166,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-18-botanical-glasshouse-with-a-great-dome/winter.png",
     "frame_size": [
      166,
      140
@@ -3152,6 +4155,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-01-coaching-inn-with-a-wing/winter.png",
+    "frame_size": [
+     112,
+     103
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3165,6 +4185,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-08-old-keep-turned-into-an-inn/summer.png",
+    "frame_size": [
+     114,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-08-old-keep-turned-into-an-inn/winter.png",
     "frame_size": [
      114,
      119
@@ -3206,6 +4243,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/08-11-iron-covered-market/winter.png",
+    "frame_size": [
+     150,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3219,6 +4273,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-19-stable-inn-with-a-dovecote-gable/summer.png",
+    "frame_size": [
+     132,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-19-stable-inn-with-a-dovecote-gable/winter.png",
     "frame_size": [
      132,
      109
@@ -3317,6 +4388,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-02-inn-with-a-corner-tower/summer.png",
+    "frame_size": [
+     100,
+     101
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-02-inn-with-a-corner-tower/winter.png",
     "frame_size": [
      100,
      101
@@ -3578,6 +4666,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-00-inn/winter.png",
+    "frame_size": [
+     94,
+     97
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3591,6 +4696,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-10-post-office-with-a-clock-and-a-letter-pillar/summer.png",
+    "frame_size": [
+     118,
+     106
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-10-post-office-with-a-clock-and-a-letter-pillar/winter.png",
     "frame_size": [
      118,
      106
@@ -3632,6 +4754,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/08-00-town-hall/winter.png",
+    "frame_size": [
+     102,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3645,6 +4784,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-10-harbour-terminal-with-a-pier/summer.png",
+    "frame_size": [
+     166,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-10-harbour-terminal-with-a-pier/winter.png",
     "frame_size": [
      166,
      146
@@ -3872,6 +5028,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-11-tram-depot-with-arched-doors/winter.png",
+    "frame_size": [
+     168,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3899,6 +5072,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-10-crossroads-lodge/winter.png",
+    "frame_size": [
+     142,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -3912,6 +5102,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-14-ship-tavern/summer.png",
+    "frame_size": [
+     168,
+     136
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-14-ship-tavern/winter.png",
     "frame_size": [
      168,
      136
@@ -3997,6 +5204,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-13-mountain-lodge/winter.png",
+    "frame_size": [
+     138,
+     122
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4010,6 +5234,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/10-01-theatre/summer.png",
+    "frame_size": [
+     100,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/10-01-theatre/winter.png",
     "frame_size": [
      100,
      104
@@ -4095,6 +5336,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-15-clock-gable-house/winter.png",
+    "frame_size": [
+     98,
+     107
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4122,6 +5380,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/08-14-domed-public-baths/winter.png",
+    "frame_size": [
+     134,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4135,6 +5410,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/06-15-bathhouse-inn-with-steam-vents-and-a-domed-bath/summer.png",
+    "frame_size": [
+     132,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/06-15-bathhouse-inn-with-steam-vents-and-a-domed-bath/winter.png",
     "frame_size": [
      132,
      120
@@ -4206,6 +5498,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-07-observatory-with-an-open-slit-dome/summer.png",
+    "frame_size": [
+     118,
+     98
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-07-observatory-with-an-open-slit-dome/winter.png",
     "frame_size": [
      118,
      98
@@ -4335,6 +5644,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-03-twin-gabled-inn/winter.png",
+    "frame_size": [
+     94,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4362,6 +5688,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-14-crooked-house-over-an-archway/winter.png",
+    "frame_size": [
+     94,
+     126
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4375,6 +5718,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/07-03-house-with-a-side-wing/summer.png",
+    "frame_size": [
+     82,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-03-house-with-a-side-wing/winter.png",
     "frame_size": [
      82,
      112
@@ -4460,6 +5820,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-11-village-store-with-a-long-front-porch-and-goods-stacked-outside/winter.png",
+    "frame_size": [
+     116,
+     90
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4473,6 +5850,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-17-sweet-shop-with-striped-walls-and-a-scalloped-roof/summer.png",
+    "frame_size": [
+     98,
+     95
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-17-sweet-shop-with-striped-walls-and-a-scalloped-roof/winter.png",
     "frame_size": [
      98,
      95
@@ -4734,6 +6128,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/10-09-exhibition-palace-of-iron-and-glass/winter.png",
+    "frame_size": [
+     174,
+     152
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4747,6 +6158,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-14-tailor-with-a-big-upper-bay-window/summer.png",
+    "frame_size": [
+     90,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-14-tailor-with-a-big-upper-bay-window/winter.png",
     "frame_size": [
      90,
      99
@@ -4788,6 +6216,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-19-hardware-store-with-a-loft-hoist/winter.png",
+    "frame_size": [
+     110,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4801,6 +6246,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-10-bandstand/summer.png",
+    "frame_size": [
+     86,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-10-bandstand/winter.png",
     "frame_size": [
      86,
      84
@@ -4886,6 +6348,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-12-cobbler-with-a-giant-boot-sign/winter.png",
+    "frame_size": [
+     94,
+     85
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4899,6 +6378,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-13-fish-shop-with-barrels-and-a-small-quay/summer.png",
+    "frame_size": [
+     122,
+     90
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-13-fish-shop-with-barrels-and-a-small-quay/winter.png",
     "frame_size": [
      122,
      90
@@ -4940,6 +6436,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-16-hat-kiosk/winter.png",
+    "frame_size": [
+     74,
+     79
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -4953,6 +6466,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/07-00-gabled-town-house/summer.png",
+    "frame_size": [
+     68,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-00-gabled-town-house/winter.png",
     "frame_size": [
      68,
      112
@@ -5024,6 +6554,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-18-barbers/summer.png",
+    "frame_size": [
+     70,
+     67
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-18-barbers/winter.png",
     "frame_size": [
      70,
      67
@@ -5136,6 +6683,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-15-toy-shop-with-a-pointed-tower-and-a-windmill-on-the-roof/winter.png",
+    "frame_size": [
+     106,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -5149,6 +6713,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-01-corner-shop-with-a-turret/summer.png",
+    "frame_size": [
+     86,
+     90
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-01-corner-shop-with-a-turret/winter.png",
     "frame_size": [
      86,
      90
@@ -5190,6 +6771,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/05-06-cheese-shop/winter.png",
+    "frame_size": [
+     106,
+     87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -5203,6 +6801,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-03-market-hall-on-posts/summer.png",
+    "frame_size": [
+     86,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-03-market-hall-on-posts/winter.png",
     "frame_size": [
      86,
      84
@@ -5332,6 +6947,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/06-09-round-tower-alehouse/winter.png",
+    "frame_size": [
+     110,
+     108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -5359,6 +6991,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/07-01-mansard-town-house/winter.png",
+    "frame_size": [
+     72,
+     93
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -5372,6 +7021,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-17-water-tower-on-arches/summer.png",
+    "frame_size": [
+     96,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-17-water-tower-on-arches/winter.png",
     "frame_size": [
      96,
      128
@@ -5457,6 +7123,23 @@
      "w",
      "sw"
     ]
+   },
+   "winter": {
+    "image": "buildings/08-02-chapel/winter.png",
+    "frame_size": [
+     100,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
    }
   }
  },
@@ -5470,6 +7153,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/07-02-flat-fronted-town-house/summer.png",
+    "frame_size": [
+     68,
+     82
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/07-02-flat-fronted-town-house/winter.png",
     "frame_size": [
      68,
      82
@@ -5700,6 +7400,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/05-02-double-fronted-shop/summer.png",
+    "frame_size": [
+     84,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-02-double-fronted-shop/winter.png",
     "frame_size": [
      84,
      89
@@ -6001,6 +7718,23 @@
   "seasons": {
    "summer": {
     "image": "buildings/08-03-clock-tower/summer.png",
+    "frame_size": [
+     70,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/08-03-clock-tower/winter.png",
     "frame_size": [
      70,
      121
