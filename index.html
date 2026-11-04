@@ -10,11 +10,17 @@
 @media (prefers-color-scheme:dark){:root{--bg:#22202c;--panel:#2c2937;--ink:#f1e9da;--soft:#b5a99c;--line:#433e50;--accent:#e58a72;--sky:#39445f;--dusk:#2f3752}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Georgia,'Iowan Old Style',serif}
-header{max-width:1200px;margin:auto;padding:32px 16px 8px}
-h1{margin:0;font-size:clamp(30px,5vw,46px)}
+header{max-width:1200px;margin:auto;padding:24px 16px 8px}
+h1{margin:0;font-size:clamp(28px,5vw,46px)}
 header p{margin:4px 0 0;color:var(--soft)}
 .bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line)}
-.bar>div{max-width:1200px;margin:auto;padding:10px 16px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.tools,.strip{max-width:1200px;margin:auto;padding:8px 16px;display:flex;gap:8px;align-items:center}
+.tools{padding-bottom:0}
+.strip{overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.strip::-webkit-scrollbar{display:none}
+.strip .chip{flex:none}
+#settings{flex:1;min-width:0;padding:0}
+@media (max-width:700px){.bar{position:static}.tools{flex-wrap:wrap}#settings{flex-basis:100%}input[type=search]{flex:1}#grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card .pic{height:150px}.card b{padding:6px 8px 0;font-size:14px;line-height:1.3}.card small{padding:0 8px 8px}main{padding:12px 16px}.big .pic{height:230px}}
 button,input{font:inherit;color:inherit}
 .chip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:4px 13px;cursor:pointer}
 .chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--panel)}
@@ -47,11 +53,14 @@ footer a{color:inherit}
   <h1>Pixel Buildings</h1>
   <p>Free pixel-art buildings for your game, from rural huts to city landmarks. Each is its own design, in summer and winter. CC0: use them in anything.</p>
 </header>
-<div class="bar"><div>
-  <span id="settings"></span><span class="gap"></span>
-  <button class="chip" id="season" type="button">Show winter</button>
-  <input type="search" id="q" placeholder="Search" aria-label="Search buildings">
-</div><div id="cats" style="padding-top:0"></div></div>
+<div class="bar">
+  <div class="tools">
+    <div class="strip" id="settings"></div>
+    <button class="chip" id="season" type="button">Show winter</button>
+    <input type="search" id="q" placeholder="Search" aria-label="Search buildings">
+  </div>
+  <div class="strip" id="cats"></div>
+</div>
 <main><p id="count"></p><div id="grid"></div></main>
 <dialog id="box"></dialog>
 <footer>Licence: <a href="LICENSE">CC0 1.0</a>. Each building's folder holds its PNG sheets and JSON.</footer>
@@ -61,6 +70,8 @@ const NAMES = {s:'South',se:'South-east',e:'East',ne:'North-east',n:'North',nw:'
 const state = {setting:'All', category:'All', season:'summer', q:''};
 const $ = id => document.getElementById(id);
 let all = [];
+
+const group = e => ({rural:'Rural', village:'Village', town:'Town', city:'City'})[e.setting] || 'Themes';
 
 function sprite(entry, season, angle, zoom) {
   const s = entry.seasons[season] || Object.values(entry.seasons)[0];
@@ -83,12 +94,11 @@ function chips(host, values, key) {
     b.onclick = () => { state[key] = v; if (key === 'setting') state.category = 'All'; draw(); };
     return b;
   }));
-  host.style.display = 'flex'; host.style.flexWrap = 'wrap'; host.style.gap = '8px';
 }
 
 function draw() {
-  chips($('settings'), ['All', ...new Set(all.map(e => e.setting[0].toUpperCase()+e.setting.slice(1)))], 'setting');
-  const inSetting = all.filter(e => state.setting === 'All' || e.setting === state.setting.toLowerCase());
+  chips($('settings'), ['All', 'Rural', 'Village', 'Town', 'City', 'Themes'], 'setting');
+  const inSetting = all.filter(e => state.setting === 'All' || group(e) === state.setting);
   chips($('cats'), ['All', ...new Set(inSetting.map(e => e.category))], 'category');
   const q = state.q.toLowerCase();
   const list = inSetting.filter(e => (state.category === 'All' || e.category === state.category) && e.name.toLowerCase().includes(q));
