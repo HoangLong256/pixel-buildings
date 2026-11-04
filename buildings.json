@@ -132,6 +132,60 @@
   }
  },
  {
+  "id": "09-17-canal-block-on-piles",
+  "name": "Canal block on piles",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 270,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-17-canal-block-on-piles/summer.png",
+    "frame_size": [
+     152,
+     147
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-10-signal-gantry",
+  "name": "Signal gantry",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 265,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-10-signal-gantry/summer.png",
+    "frame_size": [
+     182,
+     171
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "08-16-hospital-with-two-long-wings",
   "name": "Hospital with two long wings",
   "tier": 8,
@@ -440,6 +494,60 @@
   }
  },
  {
+  "id": "17-01-concentric-castle",
+  "name": "Concentric castle",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 206,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-01-concentric-castle/summer.png",
+    "frame_size": [
+     178,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-16-rose-swag-ring",
+  "name": "Rose swag ring",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 205,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-16-rose-swag-ring/summer.png",
+    "frame_size": [
+     150,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "09-18-twin-gabled-narrow-block",
   "name": "Twin-gabled narrow block",
   "tier": 9,
@@ -528,6 +636,87 @@
   }
  },
  {
+  "id": "18-12-pine-cone-tower",
+  "name": "Pine-cone tower",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 197,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-12-pine-cone-tower/summer.png",
+    "frame_size": [
+     132,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-10-pylon-yard",
+  "name": "Pylon yard",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 186,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-10-pylon-yard/summer.png",
+    "frame_size": [
+     150,
+     182
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-15-guild-hall",
+  "name": "Guild hall",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 182,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-15-guild-hall/summer.png",
+    "frame_size": [
+     122,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "09-02-block-with-a-corner-dome",
   "name": "Block with a corner dome",
   "tier": 9,
@@ -557,6 +746,33 @@
     "frame_size": [
      114,
      141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-18-performers-caravan-ring",
+  "name": "Performers' caravan ring",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 176,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-18-performers-caravan-ring/summer.png",
+    "frame_size": [
+     154,
+     115
     ],
     "angles": [
      "s",
@@ -645,6 +861,60 @@
     "frame_size": [
      90,
      130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-12-train-ferry-ramp",
+  "name": "Train ferry ramp",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 172,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-12-train-ferry-ramp/summer.png",
+    "frame_size": [
+     172,
+     185
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-19-graduation-tower",
+  "name": "Graduation tower",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 168,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-19-graduation-tower/summer.png",
+    "frame_size": [
+     188,
+     183
     ],
     "angles": [
      "s",
@@ -836,6 +1106,33 @@
   }
  },
  {
+  "id": "15-06-lattice-footbridge",
+  "name": "Lattice footbridge",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 166,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-06-lattice-footbridge/summer.png",
+    "frame_size": [
+     180,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "02-19-orchard-farmhouse-with-a-fruit-loft-and-an-outside-ladder",
   "name": "Orchard farmhouse with a fruit loft and an outside ladder",
   "tier": 2,
@@ -968,6 +1265,33 @@
   }
  },
  {
+  "id": "15-18-hanging-railway",
+  "name": "Hanging railway",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 165,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-18-hanging-railway/summer.png",
+    "frame_size": [
+     192,
+     178
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "02-18-goose-pond-farmhouse-a-little-bridge-over-the-pond",
   "name": "Goose-pond farmhouse, a little bridge over the pond",
   "tier": 2,
@@ -997,6 +1321,33 @@
     "frame_size": [
      172,
      115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-08-fractionating-columns",
+  "name": "Fractionating columns",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 164,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-08-fractionating-columns/summer.png",
+    "frame_size": [
+     166,
+     189
     ],
     "angles": [
      "s",
@@ -1085,6 +1436,60 @@
     "frame_size": [
      140,
      132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-03-canopy-walkway",
+  "name": "Canopy walkway",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 161,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-03-canopy-walkway/summer.png",
+    "frame_size": [
+     171,
+     194
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-15-octagon-castle",
+  "name": "Octagon castle",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 158,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-15-octagon-castle/summer.png",
+    "frame_size": [
+     186,
+     148
     ],
     "angles": [
      "s",
@@ -1506,6 +1911,60 @@
   }
  },
  {
+  "id": "11-15-bandwagon",
+  "name": "Bandwagon",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 145,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-15-bandwagon/summer.png",
+    "frame_size": [
+     128,
+     135
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "22-07-drum-tower",
+  "name": "Drum tower",
+  "tier": 22,
+  "setting": "eastern",
+  "category": "Eastern village",
+  "complexity": 144,
+  "seasons": {
+   "summer": {
+    "image": "buildings/22-07-drum-tower/summer.png",
+    "frame_size": [
+     148,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "06-17-hunting-lodge-with-a-long-log-front",
   "name": "Hunting lodge with a long log front",
   "tier": 6,
@@ -1535,6 +1994,33 @@
     "frame_size": [
      149,
      118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-08-bridge-house-spanning-an-arch",
+  "name": "Bridge house spanning an arch",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 142,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-08-bridge-house-spanning-an-arch/summer.png",
+    "frame_size": [
+     134,
+     126
     ],
     "angles": [
      "s",
@@ -1824,6 +2310,33 @@
   }
  },
  {
+  "id": "16-06-pineapple-folly",
+  "name": "Pineapple folly",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 134,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-06-pineapple-folly/summer.png",
+    "frame_size": [
+     144,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-13-cart-shed",
   "name": "Cart shed",
   "tier": 3,
@@ -1912,6 +2425,60 @@
   }
  },
  {
+  "id": "11-19-water-tank-stage",
+  "name": "Water-tank stage",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 133,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-19-water-tank-stage/summer.png",
+    "frame_size": [
+     158,
+     200
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-09-sphere-tank",
+  "name": "Sphere tank",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 133,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-09-sphere-tank/summer.png",
+    "frame_size": [
+     148,
+     156
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "02-06-mountain-chalet",
   "name": "Mountain chalet",
   "tier": 2,
@@ -1941,6 +2508,87 @@
     "frame_size": [
      168,
      125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-16-woodstack-house",
+  "name": "Woodstack house",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 131,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-16-woodstack-house/summer.png",
+    "frame_size": [
+     140,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-12-walled-kitchen-garden",
+  "name": "Walled kitchen garden",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 130,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-12-walled-kitchen-garden/summer.png",
+    "frame_size": [
+     192,
+     126
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-00-fire-lookout",
+  "name": "Fire lookout",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 130,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-00-fire-lookout/summer.png",
+    "frame_size": [
+     144,
+     162
     ],
     "angles": [
      "s",
@@ -2056,6 +2704,141 @@
     "frame_size": [
      178,
      129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-17-stilt-walkers-costume-tent",
+  "name": "Stilt-walkers' costume tent",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 128,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-17-stilt-walkers-costume-tent/summer.png",
+    "frame_size": [
+     138,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-11-water-stair",
+  "name": "Water stair",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 127,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-11-water-stair/summer.png",
+    "frame_size": [
+     162,
+     167
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-05-riverside-tavern-on-stilts-with-a-terrace",
+  "name": "Riverside tavern on stilts with a terrace",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 126,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-05-riverside-tavern-on-stilts-with-a-terrace/summer.png",
+    "frame_size": [
+     144,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-14-acrobats-rigging-tower",
+  "name": "Acrobats' rigging tower",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 126,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-14-acrobats-rigging-tower/summer.png",
+    "frame_size": [
+     122,
+     155
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-04-shade-sail-souk",
+  "name": "Shade-sail souk",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 126,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-04-shade-sail-souk/summer.png",
+    "frame_size": [
+     162,
+     150
     ],
     "angles": [
      "s",
@@ -2203,6 +2986,60 @@
   }
  },
  {
+  "id": "11-05-carousel",
+  "name": "Carousel",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 122,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-05-carousel/summer.png",
+    "frame_size": [
+     116,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-18-spiral-stair-oak",
+  "name": "Spiral-stair oak",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 122,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-18-spiral-stair-oak/summer.png",
+    "frame_size": [
+     150,
+     196
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-06-open-hay-barn",
   "name": "Open hay barn",
   "tier": 3,
@@ -2232,6 +3069,33 @@
     "frame_size": [
      124,
      95
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-12-shooting-gallery",
+  "name": "Shooting gallery",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 121,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-12-shooting-gallery/summer.png",
+    "frame_size": [
+     134,
+     109
     ],
     "angles": [
      "s",
@@ -2335,6 +3199,60 @@
   }
  },
  {
+  "id": "11-06-ferris-wheel",
+  "name": "Ferris wheel",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 119,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-06-ferris-wheel/summer.png",
+    "frame_size": [
+     150,
+     169
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-05-laburnum-tunnel",
+  "name": "Laburnum tunnel",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 119,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-05-laburnum-tunnel/summer.png",
+    "frame_size": [
+     160,
+     107
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "06-16-ferry-inn-with-a-jetty-and-a-moored-boat",
   "name": "Ferry inn with a jetty and a moored boat",
   "tier": 6,
@@ -2408,6 +3326,114 @@
     "frame_size": [
      162,
      128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-08-carriage-home",
+  "name": "Carriage home",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 117,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-08-carriage-home/summer.png",
+    "frame_size": [
+     148,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-10-coal-staithe",
+  "name": "Coal staithe",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 116,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-10-coal-staithe/summer.png",
+    "frame_size": [
+     172,
+     124
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-15-sign-tower",
+  "name": "Sign tower",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 116,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-15-sign-tower/summer.png",
+    "frame_size": [
+     122,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "22-03-lotus-tea-pavilion",
+  "name": "Lotus tea pavilion",
+  "tier": 22,
+  "setting": "eastern",
+  "category": "Eastern village",
+  "complexity": 116,
+  "seasons": {
+   "summer": {
+    "image": "buildings/22-03-lotus-tea-pavilion/summer.png",
+    "frame_size": [
+     176,
+     116
     ],
     "angles": [
      "s",
@@ -2599,6 +3625,33 @@
   }
  },
  {
+  "id": "16-15-palladian-bridge",
+  "name": "Palladian bridge",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 115,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-15-palladian-bridge/summer.png",
+    "frame_size": [
+     178,
+     127
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "02-09-hop-farm-with-a-round-kiln-and-a-tilted-cowl",
   "name": "Hop farm with a round kiln and a tilted cowl",
   "tier": 2,
@@ -2775,6 +3828,60 @@
   }
  },
  {
+  "id": "15-07-country-halt",
+  "name": "Country halt",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 113,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-07-country-halt/summer.png",
+    "frame_size": [
+     156,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-07-gantry-crane",
+  "name": "Gantry crane",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 113,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-07-gantry-crane/summer.png",
+    "frame_size": [
+     158,
+     168
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "10-15-science-museum-with-a-giant-orrery-on-the-roof",
   "name": "Science museum with a giant orrery on the roof",
   "tier": 10,
@@ -2804,6 +3911,60 @@
     "frame_size": [
      154,
      180
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "22-04-hot-spring-bathhouse",
+  "name": "Hot-spring bathhouse",
+  "tier": 22,
+  "setting": "eastern",
+  "category": "Eastern village",
+  "complexity": 112,
+  "seasons": {
+   "summer": {
+    "image": "buildings/22-04-hot-spring-bathhouse/summer.png",
+    "frame_size": [
+     164,
+     157
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-19-shop-bridge",
+  "name": "Shop bridge",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 111,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-19-shop-bridge/summer.png",
+    "frame_size": [
+     172,
+     131
     ],
     "angles": [
      "s",
@@ -3051,6 +4212,60 @@
     "frame_size": [
      122,
      103
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-00-lighthouse",
+  "name": "Lighthouse",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 108,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-00-lighthouse/summer.png",
+    "frame_size": [
+     146,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-16-water-gate",
+  "name": "Water gate",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 108,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-16-water-gate/summer.png",
+    "frame_size": [
+     164,
+     132
     ],
     "angles": [
      "s",
@@ -3357,6 +4572,60 @@
   }
  },
  {
+  "id": "11-08-lion-wagon",
+  "name": "Lion wagon",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 105,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-08-lion-wagon/summer.png",
+    "frame_size": [
+     110,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-17-park-gates",
+  "name": "Park gates",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 105,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-17-park-gates/summer.png",
+    "frame_size": [
+     158,
+     116
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "01-05-shepherds-hut-on-four-iron-wheels",
   "name": "Shepherd's hut on four iron wheels",
   "tier": 1,
@@ -3474,6 +4743,87 @@
     "frame_size": [
      172,
      159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-08-post-hall-with-a-big-arched-door",
+  "name": "Post hall with a big arched door",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 102,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-08-post-hall-with-a-big-arched-door/summer.png",
+    "frame_size": [
+     128,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-03-department-store",
+  "name": "Department store",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 101,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-03-department-store/summer.png",
+    "frame_size": [
+     110,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-17-island-platform",
+  "name": "Island platform",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 101,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-17-island-platform/summer.png",
+    "frame_size": [
+     188,
+     129
     ],
     "angles": [
      "s",
@@ -3692,6 +5042,60 @@
   }
  },
  {
+  "id": "15-01-water-tank",
+  "name": "Water tank",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 98,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-01-water-tank/summer.png",
+    "frame_size": [
+     134,
+     145
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-09-monument-engine",
+  "name": "Monument engine",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 98,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-09-monument-engine/summer.png",
+    "frame_size": [
+     156,
+     127
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "01-04-beekeepers-cottage",
   "name": "Beekeeper's cottage",
   "tier": 1,
@@ -3868,6 +5272,114 @@
   }
  },
  {
+  "id": "16-00-hedge-maze",
+  "name": "Hedge maze",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 96,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-00-hedge-maze/summer.png",
+    "frame_size": [
+     166,
+     100
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-06-hoarded-curtain-wall",
+  "name": "Hoarded curtain wall",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 96,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-06-hoarded-curtain-wall/summer.png",
+    "frame_size": [
+     168,
+     179
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-12-net-drying-rack",
+  "name": "Net-drying rack",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 95,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-12-net-drying-rack/summer.png",
+    "frame_size": [
+     160,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-12-grain-elevator",
+  "name": "Grain elevator",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 95,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-12-grain-elevator/summer.png",
+    "frame_size": [
+     162,
+     187
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "02-16-upland-farm-on-stone-piers-stores-below-the-floor",
   "name": "Upland farm on stone piers, stores below the floor",
   "tier": 2,
@@ -3956,6 +5468,87 @@
   }
  },
  {
+  "id": "14-12-crate-pyramid",
+  "name": "Crate pyramid",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 94,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-12-crate-pyramid/summer.png",
+    "frame_size": [
+     138,
+     127
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-00-signal-box",
+  "name": "Signal box",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 94,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-00-signal-box/summer.png",
+    "frame_size": [
+     144,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-13-level-crossing",
+  "name": "Level crossing",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 94,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-13-level-crossing/summer.png",
+    "frame_size": [
+     154,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-09-long-low-cow-byre-with-a-ramp-and-a-dung-yard",
   "name": "Long low cow byre with a ramp and a dung yard",
   "tier": 3,
@@ -3985,6 +5578,114 @@
     "frame_size": [
      154,
      91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-08-lifeboat-station",
+  "name": "Lifeboat station",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 93,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-08-lifeboat-station/summer.png",
+    "frame_size": [
+     162,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-18-salt-works",
+  "name": "Salt works",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 93,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-18-salt-works/summer.png",
+    "frame_size": [
+     154,
+     144
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-01-gasholder",
+  "name": "Gasholder",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 93,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-01-gasholder/summer.png",
+    "frame_size": [
+     164,
+     171
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-04-log-flume",
+  "name": "Log flume",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 92,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-04-log-flume/summer.png",
+    "frame_size": [
+     168,
+     161
     ],
     "angles": [
      "s",
@@ -4073,6 +5774,60 @@
     "frame_size": [
      166,
      140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-00-cable-car",
+  "name": "Cable car",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 91,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-00-cable-car/summer.png",
+    "frame_size": [
+     150,
+     189
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-08-beacon-tower",
+  "name": "Beacon tower",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 91,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-08-beacon-tower/summer.png",
+    "frame_size": [
+     122,
+     143
     ],
     "angles": [
      "s",
@@ -4220,6 +5975,60 @@
   }
  },
  {
+  "id": "11-04-showmans-wagon",
+  "name": "Showman's wagon",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 90,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-04-showmans-wagon/summer.png",
+    "frame_size": [
+     118,
+     98
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-18-crown-tower",
+  "name": "Crown tower",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 90,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-18-crown-tower/summer.png",
+    "frame_size": [
+     118,
+     164
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "08-11-iron-covered-market",
   "name": "Iron covered market",
   "tier": 8,
@@ -4293,6 +6102,87 @@
     "frame_size": [
      132,
      109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-14-maypole-green",
+  "name": "Maypole green",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 88,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-14-maypole-green/summer.png",
+    "frame_size": [
+     156,
+     163
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-02-drawbridge-tower",
+  "name": "Drawbridge tower",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 88,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-02-drawbridge-tower/summer.png",
+    "frame_size": [
+     160,
+     160
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-05-ram-shed",
+  "name": "Ram shed",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 88,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-05-ram-shed/summer.png",
+    "frame_size": [
+     152,
+     116
     ],
     "angles": [
      "s",
@@ -4423,6 +6313,33 @@
   }
  },
  {
+  "id": "15-05-stone-viaduct",
+  "name": "Stone viaduct",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 87,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-05-stone-viaduct/summer.png",
+    "frame_size": [
+     172,
+     171
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-18-bee-shed",
   "name": "Bee shed",
   "tier": 3,
@@ -4496,6 +6413,60 @@
     "frame_size": [
      116,
      96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-00-motte-and-bailey",
+  "name": "Motte and bailey",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 86,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-00-motte-and-bailey/summer.png",
+    "frame_size": [
+     162,
+     147
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-13-ring-kiln",
+  "name": "Ring kiln",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 86,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-13-ring-kiln/summer.png",
+    "frame_size": [
+     172,
+     180
     ],
     "angles": [
      "s",
@@ -4687,6 +6658,87 @@
   }
  },
  {
+  "id": "12-02-screw-pile-light",
+  "name": "Screw-pile light",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 84,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-02-screw-pile-light/summer.png",
+    "frame_size": [
+     134,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-16-goods-shed",
+  "name": "Goods shed",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 84,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-16-goods-shed/summer.png",
+    "frame_size": [
+     171,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-19-great-bombard",
+  "name": "Great bombard",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 84,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-19-great-bombard/summer.png",
+    "frame_size": [
+     164,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-10-post-office-with-a-clock-and-a-letter-pillar",
   "name": "Post office with a clock and a letter pillar",
   "tier": 5,
@@ -4819,6 +6871,60 @@
   }
  },
  {
+  "id": "11-03-grand-entrance-arch",
+  "name": "Grand entrance arch",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 83,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-03-grand-entrance-arch/summer.png",
+    "frame_size": [
+     136,
+     133
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-07-bascule-bridge",
+  "name": "Bascule bridge",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 83,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-07-bascule-bridge/summer.png",
+    "frame_size": [
+     158,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "01-15-eyebrow-cottage",
   "name": "Eyebrow cottage",
   "tier": 1,
@@ -4902,6 +7008,60 @@
     "frame_size": [
      82,
      89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-07-auction-ring",
+  "name": "Auction ring",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 82,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-07-auction-ring/summer.png",
+    "frame_size": [
+     180,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-00-blast-furnace",
+  "name": "Blast furnace",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 82,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-00-blast-furnace/summer.png",
+    "frame_size": [
+     162,
+     176
     ],
     "angles": [
      "s",
@@ -5357,6 +7517,33 @@
   }
  },
  {
+  "id": "11-10-popcorn-wagon",
+  "name": "Popcorn wagon",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 78,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-10-popcorn-wagon/summer.png",
+    "frame_size": [
+     90,
+     91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "08-14-domed-public-baths",
   "name": "Domed public baths",
   "tier": 8,
@@ -5401,6 +7588,114 @@
   }
  },
  {
+  "id": "10-17-bridge-tower-with-a-gate-and-a-span",
+  "name": "Bridge tower with a gate and a span",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 77,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-17-bridge-tower-with-a-gate-and-a-span/summer.png",
+    "frame_size": [
+     168,
+     178
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-15-carrelet-hut",
+  "name": "Carrelet hut",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 77,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-15-carrelet-hut/summer.png",
+    "frame_size": [
+     168,
+     116
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-01-moon-gate",
+  "name": "Moon gate",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 76,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-01-moon-gate/summer.png",
+    "frame_size": [
+     142,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "22-05-bell-pavilion",
+  "name": "Bell pavilion",
+  "tier": 22,
+  "setting": "eastern",
+  "category": "Eastern village",
+  "complexity": 76,
+  "seasons": {
+   "summer": {
+    "image": "buildings/22-05-bell-pavilion/summer.png",
+    "frame_size": [
+     132,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "06-15-bathhouse-inn-with-steam-vents-and-a-domed-bath",
   "name": "Bathhouse inn with steam vents and a domed bath",
   "tier": 6,
@@ -5430,6 +7725,60 @@
     "frame_size": [
      132,
      120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-04-net-lofts",
+  "name": "Net lofts",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 75,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-04-net-lofts/summer.png",
+    "frame_size": [
+     128,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-14-foundry-cupola",
+  "name": "Foundry cupola",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 75,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-14-foundry-cupola/summer.png",
+    "frame_size": [
+     188,
+     171
     ],
     "angles": [
      "s",
@@ -5533,6 +7882,222 @@
   }
  },
  {
+  "id": "13-09-ski-jump",
+  "name": "Ski jump",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 74,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-09-ski-jump/summer.png",
+    "frame_size": [
+     170,
+     212
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-14-obelisk",
+  "name": "Obelisk",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 74,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-14-obelisk/summer.png",
+    "frame_size": [
+     138,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-19-exedra",
+  "name": "Exedra",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 74,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-19-exedra/summer.png",
+    "frame_size": [
+     162,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-08-nest-pod",
+  "name": "Nest pod",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 74,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-08-nest-pod/summer.png",
+    "frame_size": [
+     160,
+     201
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-04-flower-shop-with-a-glasshouse-front",
+  "name": "Flower shop with a glasshouse front",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 73,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-04-flower-shop-with-a-glasshouse-front/summer.png",
+    "frame_size": [
+     110,
+     113
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-07-shell-keep",
+  "name": "Shell keep",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 73,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-07-shell-keep/summer.png",
+    "frame_size": [
+     164,
+     139
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-09-stockade-fort",
+  "name": "Stockade fort",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 73,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-09-stockade-fort/summer.png",
+    "frame_size": [
+     188,
+     136
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-02-cooling-tower",
+  "name": "Cooling tower",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 73,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-02-cooling-tower/summer.png",
+    "frame_size": [
+     174,
+     177
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "04-18-saw-pit-shed",
   "name": "Saw pit shed",
   "tier": 4,
@@ -5562,6 +8127,141 @@
     "frame_size": [
      138,
      99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-09-fog-signal",
+  "name": "Fog signal",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 72,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-09-fog-signal/summer.png",
+    "frame_size": [
+     134,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-11-spire-castle",
+  "name": "Spire castle",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 72,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-11-spire-castle/summer.png",
+    "frame_size": [
+     146,
+     183
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-11-time-ball-tower",
+  "name": "Time-ball tower",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 71,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-11-time-ball-tower/summer.png",
+    "frame_size": [
+     122,
+     163
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-10-floating-market",
+  "name": "Floating market",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 71,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-10-floating-market/summer.png",
+    "frame_size": [
+     188,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-09-stave-church",
+  "name": "Stave church",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 71,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-09-stave-church/summer.png",
+    "frame_size": [
+     172,
+     148
     ],
     "angles": [
      "s",
@@ -5709,6 +8409,33 @@
   }
  },
  {
+  "id": "19-15-shot-tower",
+  "name": "Shot tower",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 70,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-15-shot-tower/summer.png",
+    "frame_size": [
+     118,
+     169
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "07-03-house-with-a-side-wing",
   "name": "House with a side wing",
   "tier": 7,
@@ -5738,6 +8465,60 @@
     "frame_size": [
      82,
      112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "15-11-yard-crane",
+  "name": "Yard crane",
+  "tier": 15,
+  "setting": "railway",
+  "category": "Railway",
+  "complexity": 69,
+  "seasons": {
+   "summer": {
+    "image": "buildings/15-11-yard-crane/summer.png",
+    "frame_size": [
+     146,
+     157
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-17-spar-tree",
+  "name": "Spar tree",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 69,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-17-spar-tree/summer.png",
+    "frame_size": [
+     156,
+     169
     ],
     "angles": [
      "s",
@@ -6017,6 +8798,141 @@
   }
  },
  {
+  "id": "11-00-big-top",
+  "name": "Big top",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-00-big-top/summer.png",
+    "frame_size": [
+     166,
+     171
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-05-herring-smokehouse",
+  "name": "Herring smokehouse",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-05-herring-smokehouse/summer.png",
+    "frame_size": [
+     142,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-17-bucket-dredger",
+  "name": "Bucket dredger",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-17-bucket-dredger/summer.png",
+    "frame_size": [
+     162,
+     124
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-03-dzong",
+  "name": "Dzong",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-03-dzong/summer.png",
+    "frame_size": [
+     158,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-14-ruined-keep",
+  "name": "Ruined keep",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-14-ruined-keep/summer.png",
+    "frame_size": [
+     146,
+     179
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "01-11-hermits-a-frame",
   "name": "Hermit's A-frame",
   "tier": 1,
@@ -6046,6 +8962,249 @@
     "frame_size": [
      118,
      108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-01-treadwheel-crane",
+  "name": "Treadwheel crane",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-01-treadwheel-crane/summer.png",
+    "frame_size": [
+     150,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-19-harbour-mole",
+  "name": "Harbour mole",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-19-harbour-mole/summer.png",
+    "frame_size": [
+     166,
+     122
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-07-funicular",
+  "name": "Funicular",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-07-funicular/summer.png",
+    "frame_size": [
+     164,
+     184
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-17-hanging-temple",
+  "name": "Hanging temple",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-17-hanging-temple/summer.png",
+    "frame_size": [
+     172,
+     188
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-03-siege-tower",
+  "name": "Siege tower",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-03-siege-tower/summer.png",
+    "frame_size": [
+     132,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-07-root-bridge",
+  "name": "Root bridge",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-07-root-bridge/summer.png",
+    "frame_size": [
+     178,
+     189
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-13-witchs-hut",
+  "name": "Witch's hut",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-13-witchs-hut/summer.png",
+    "frame_size": [
+     136,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-13-hall-of-mirrors",
+  "name": "Hall of mirrors",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 64,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-13-hall-of-mirrors/summer.png",
+    "frame_size": [
+     132,
+     150
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-14-sheer-legs",
+  "name": "Sheer legs",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 64,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-14-sheer-legs/summer.png",
+    "frame_size": [
+     154,
+     177
     ],
     "angles": [
      "s",
@@ -6149,6 +9308,87 @@
   }
  },
  {
+  "id": "16-18-floral-clock",
+  "name": "Floral clock",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 63,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-18-floral-clock/summer.png",
+    "frame_size": [
+     156,
+     145
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-01-stump-house",
+  "name": "Stump house",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 63,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-01-stump-house/summer.png",
+    "frame_size": [
+     152,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-14-moss-grotto",
+  "name": "Moss grotto",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 62,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-14-moss-grotto/summer.png",
+    "frame_size": [
+     176,
+     173
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-14-tailor-with-a-big-upper-bay-window",
   "name": "Tailor with a big upper bay window",
   "tier": 5,
@@ -6237,6 +9477,87 @@
   }
  },
  {
+  "id": "13-05-chorten",
+  "name": "Chorten",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 61,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-05-chorten/summer.png",
+    "frame_size": [
+     132,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-08-summit-weather-station",
+  "name": "Summit weather station",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 61,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-08-summit-weather-station/summer.png",
+    "frame_size": [
+     128,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-08-birdcage-kiosk",
+  "name": "Birdcage kiosk",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 61,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-08-birdcage-kiosk/summer.png",
+    "frame_size": [
+     114,
+     132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "08-10-bandstand",
   "name": "Bandstand",
   "tier": 8,
@@ -6266,6 +9587,33 @@
     "frame_size": [
      86,
      84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-04-mill-chimney",
+  "name": "Mill chimney",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 60,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-04-mill-chimney/summer.png",
+    "frame_size": [
+     122,
+     174
     ],
     "angles": [
      "s",
@@ -6413,6 +9761,87 @@
   }
  },
  {
+  "id": "12-06-dry-dock",
+  "name": "Dry dock",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 58,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-06-dry-dock/summer.png",
+    "frame_size": [
+     166,
+     134
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-11-hay-rack",
+  "name": "Hay rack",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 58,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-11-hay-rack/summer.png",
+    "frame_size": [
+     132,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-03-weaving-shed",
+  "name": "Weaving shed",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 58,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-03-weaving-shed/summer.png",
+    "frame_size": [
+     180,
+     216
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-16-hat-kiosk",
   "name": "Hat kiosk",
   "tier": 5,
@@ -6501,6 +9930,114 @@
   }
  },
  {
+  "id": "12-16-buoy-yard",
+  "name": "Buoy yard",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 57,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-16-buoy-yard/summer.png",
+    "frame_size": [
+     142,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-10-avalanche-gallery",
+  "name": "Avalanche gallery",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 57,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-10-avalanche-gallery/summer.png",
+    "frame_size": [
+     164,
+     150
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-04-topiary-walk",
+  "name": "Topiary walk",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 57,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-04-topiary-walk/summer.png",
+    "frame_size": [
+     187,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-13-ogee-gazebo",
+  "name": "Ogee gazebo",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 57,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-13-ogee-gazebo/summer.png",
+    "frame_size": [
+     122,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-17-standalone-round-dovecote-with-a-lantern",
   "name": "Standalone round dovecote with a lantern",
   "tier": 3,
@@ -6545,6 +10082,141 @@
   }
  },
  {
+  "id": "13-01-crag-monastery",
+  "name": "Crag monastery",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 56,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-01-crag-monastery/summer.png",
+    "frame_size": [
+     134,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-04-trebuchet",
+  "name": "Trebuchet",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 56,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-04-trebuchet/summer.png",
+    "frame_size": [
+     154,
+     173
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-15-ruined-chapel",
+  "name": "Ruined chapel",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 56,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-15-ruined-chapel/summer.png",
+    "frame_size": [
+     172,
+     157
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "12-13-lightship",
+  "name": "Lightship",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 55,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-13-lightship/summer.png",
+    "frame_size": [
+     150,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-19-log-amphitheatre",
+  "name": "Log amphitheatre",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 55,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-19-log-amphitheatre/summer.png",
+    "frame_size": [
+     182,
+     139
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-18-barbers",
   "name": "Barber's",
   "tier": 5,
@@ -6574,6 +10246,87 @@
     "frame_size": [
      70,
      67
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-02-devils-bridge",
+  "name": "Devil's bridge",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 54,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-02-devils-bridge/summer.png",
+    "frame_size": [
+     160,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-10-forest-belfry",
+  "name": "Forest belfry",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 54,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-10-forest-belfry/summer.png",
+    "frame_size": [
+     142,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "19-06-steam-hammer",
+  "name": "Steam hammer",
+  "tier": 19,
+  "setting": "industry",
+  "category": "Industry",
+  "complexity": 54,
+  "seasons": {
+   "summer": {
+    "image": "buildings/19-06-steam-hammer/summer.png",
+    "frame_size": [
+     172,
+     160
     ],
     "angles": [
      "s",
@@ -6704,6 +10457,168 @@
   }
  },
  {
+  "id": "11-01-round-side-tent-with-a-scalloped-valance",
+  "name": "Round side tent with a scalloped valance",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 52,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-01-round-side-tent-with-a-scalloped-valance/summer.png",
+    "frame_size": [
+     116,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-07-helter-skelter",
+  "name": "Helter-skelter",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 52,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-07-helter-skelter/summer.png",
+    "frame_size": [
+     122,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-11-strongmans-test",
+  "name": "Strongman's test",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 52,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-11-strongmans-test/summer.png",
+    "frame_size": [
+     82,
+     137
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-16-elephant-barn",
+  "name": "Elephant barn",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 52,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-16-elephant-barn/summer.png",
+    "frame_size": [
+     154,
+     144
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-17-castle-kitchen",
+  "name": "Castle kitchen",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 52,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-17-castle-kitchen/summer.png",
+    "frame_size": [
+     132,
+     131
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-11-acorn-house",
+  "name": "Acorn house",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 52,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-11-acorn-house/summer.png",
+    "frame_size": [
+     128,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-01-corner-shop-with-a-turret",
   "name": "Corner shop with a turret",
   "tier": 5,
@@ -6777,6 +10692,87 @@
     "frame_size": [
      106,
      87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-16-terraced-fields",
+  "name": "Terraced fields",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 51,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-16-terraced-fields/summer.png",
+    "frame_size": [
+     167,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-09-snail-mount",
+  "name": "Snail mount",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 51,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-09-snail-mount/summer.png",
+    "frame_size": [
+     166,
+     134
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-05-standing-stones",
+  "name": "Standing stones",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 51,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-05-standing-stones/summer.png",
+    "frame_size": [
+     176,
+     130
     ],
     "angles": [
      "s",
@@ -7056,6 +11052,60 @@
   }
  },
  {
+  "id": "12-03-martello-fort",
+  "name": "Martello fort",
+  "tier": 12,
+  "setting": "harbour",
+  "category": "Harbour",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/12-03-martello-fort/summer.png",
+    "frame_size": [
+     142,
+     124
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "18-02-toadstool-house",
+  "name": "Toadstool house",
+  "tier": 18,
+  "setting": "forest",
+  "category": "Forest",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/18-02-toadstool-house/summer.png",
+    "frame_size": [
+     128,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-00-bakery",
   "name": "Bakery",
   "tier": 5,
@@ -7188,6 +11238,33 @@
   }
  },
  {
+  "id": "11-09-fortune-tellers-tent",
+  "name": "Fortune teller's tent",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 47,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-09-fortune-tellers-tent/summer.png",
+    "frame_size": [
+     86,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "01-03-l-shaped-cottage",
   "name": "L-shaped cottage",
   "tier": 1,
@@ -7303,6 +11380,60 @@
   }
  },
  {
+  "id": "14-09-common-bread-oven",
+  "name": "Common bread oven",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 45,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-09-common-bread-oven/summer.png",
+    "frame_size": [
+     144,
+     136
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-03-fern-cloche",
+  "name": "Fern cloche",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 45,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-03-fern-cloche/summer.png",
+    "frame_size": [
+     136,
+     124
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-03-barn-with-a-silo",
   "name": "Barn with a silo",
   "tier": 3,
@@ -7332,6 +11463,33 @@
     "frame_size": [
      108,
      101
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "22-06-great-censer",
+  "name": "Great censer",
+  "tier": 22,
+  "setting": "eastern",
+  "category": "Eastern village",
+  "complexity": 44,
+  "seasons": {
+   "summer": {
+    "image": "buildings/22-06-great-censer/summer.png",
+    "frame_size": [
+     132,
+     142
     ],
     "angles": [
      "s",
@@ -7391,6 +11549,33 @@
   }
  },
  {
+  "id": "14-00-butter-cross",
+  "name": "Butter cross",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 43,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-00-butter-cross/summer.png",
+    "frame_size": [
+     116,
+     124
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "05-02-double-fronted-shop",
   "name": "Double-fronted shop",
   "tier": 5,
@@ -7420,6 +11605,33 @@
     "frame_size": [
      84,
      89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-06-teapot-tea-stall",
+  "name": "Teapot tea stall",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 42,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-06-teapot-tea-stall/summer.png",
+    "frame_size": [
+     138,
+     129
     ],
     "angles": [
      "s",
@@ -7567,6 +11779,87 @@
   }
  },
  {
+  "id": "13-18-summit-cross",
+  "name": "Summit cross",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 39,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-18-summit-cross/summer.png",
+    "frame_size": [
+     122,
+     144
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-19-wedge-barn",
+  "name": "Wedge barn",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 39,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-19-wedge-barn/summer.png",
+    "frame_size": [
+     142,
+     103
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-16-pumpkin-stall",
+  "name": "Pumpkin stall",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 39,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-16-pumpkin-stall/summer.png",
+    "frame_size": [
+     144,
+     133
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
   "id": "03-02-stable",
   "name": "Stable",
   "tier": 3,
@@ -7579,6 +11872,60 @@
     "frame_size": [
      100,
      74
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "14-11-poster-drum",
+  "name": "Poster drum",
+  "tier": 14,
+  "setting": "market",
+  "category": "Market",
+  "complexity": 37,
+  "seasons": {
+   "summer": {
+    "image": "buildings/14-11-poster-drum/summer.png",
+    "frame_size": [
+     86,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "16-07-ice-house",
+  "name": "Ice house",
+  "tier": 16,
+  "setting": "park",
+  "category": "Gardens and parks",
+  "complexity": 37,
+  "seasons": {
+   "summer": {
+    "image": "buildings/16-07-ice-house/summer.png",
+    "frame_size": [
+     138,
+     119
     ],
     "angles": [
      "s",
@@ -7650,6 +11997,33 @@
     "frame_size": [
      90,
      72
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "11-02-ticket-booth",
+  "name": "Ticket booth",
+  "tier": 11,
+  "setting": "fairground",
+  "category": "Circus",
+  "complexity": 33,
+  "seasons": {
+   "summer": {
+    "image": "buildings/11-02-ticket-booth/summer.png",
+    "frame_size": [
+     70,
+     81
     ],
     "angles": [
      "s",
@@ -7738,6 +12112,87 @@
     "frame_size": [
      70,
      121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-13-wayside-shrine",
+  "name": "Wayside shrine",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 32,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-13-wayside-shrine/summer.png",
+    "frame_size": [
+     90,
+     93
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "17-13-broch",
+  "name": "Broch",
+  "tier": 17,
+  "setting": "castle",
+  "category": "Castle",
+  "complexity": 27,
+  "seasons": {
+   "summer": {
+    "image": "buildings/17-13-broch/summer.png",
+    "frame_size": [
+     138,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "13-15-beehive-cells",
+  "name": "Beehive cells",
+  "tier": 13,
+  "setting": "mountain",
+  "category": "Mountain",
+  "complexity": 25,
+  "seasons": {
+   "summer": {
+    "image": "buildings/13-15-beehive-cells/summer.png",
+    "frame_size": [
+     132,
+     82
     ],
     "angles": [
      "s",
