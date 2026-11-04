@@ -1,0 +1,6092 @@
+[
+ {
+  "id": "09-08-twin-towers-joined-by-a-bridge",
+  "name": "Twin towers joined by a bridge",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 427,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-08-twin-towers-joined-by-a-bridge/summer.png",
+    "frame_size": [
+     138,
+     191
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-04-courtyard-block-in-a-u",
+  "name": "Courtyard block in a U",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 315,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-04-courtyard-block-in-a-u/summer.png",
+    "frame_size": [
+     144,
+     150
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-09-mansion-block-with-bay-windows-up-every-floor",
+  "name": "Mansion block with bay windows up every floor",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 309,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-09-mansion-block-with-bay-windows-up-every-floor/summer.png",
+    "frame_size": [
+     134,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-16-hospital-with-two-long-wings",
+  "name": "Hospital with two long wings",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 251,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-16-hospital-with-two-long-wings/summer.png",
+    "frame_size": [
+     168,
+     136
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-07-tenement-with-outside-galleries",
+  "name": "Tenement with outside galleries",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 248,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-07-tenement-with-outside-galleries/summer.png",
+    "frame_size": [
+     148,
+     154
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-05-stepped-terraces-with-gardens-at-each-level",
+  "name": "Stepped terraces with gardens at each level",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 247,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-05-stepped-terraces-with-gardens-at-each-level/summer.png",
+    "frame_size": [
+     166,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-16-block-with-a-village-of-shacks-on-its-roof",
+  "name": "Block with a village of shacks on its roof",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 235,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-16-block-with-a-village-of-shacks-on-its-roof/summer.png",
+    "frame_size": [
+     134,
+     153
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-14-workers-block-with-outside-iron-stairs",
+  "name": "Workers' block with outside iron stairs",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 232,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-14-workers-block-with-outside-iron-stairs/summer.png",
+    "frame_size": [
+     132,
+     149
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-15-hanging-garden-block",
+  "name": "Hanging-garden block",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 231,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-15-hanging-garden-block/summer.png",
+    "frame_size": [
+     122,
+     149
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-12-arcaded-block-over-shops",
+  "name": "Arcaded block over shops",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 207,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-12-arcaded-block-over-shops/summer.png",
+    "frame_size": [
+     140,
+     143
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-18-twin-gabled-narrow-block",
+  "name": "Twin-gabled narrow block",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 201,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-18-twin-gabled-narrow-block/summer.png",
+    "frame_size": [
+     98,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-06-rounded-flatiron-corner-block",
+  "name": "Rounded flatiron corner block",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 198,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-06-rounded-flatiron-corner-block/summer.png",
+    "frame_size": [
+     142,
+     181
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-02-block-with-a-corner-dome",
+  "name": "Block with a corner dome",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 178,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-02-block-with-a-corner-dome/summer.png",
+    "frame_size": [
+     114,
+     141
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-11-hillside-block-stacked-up-a-slope",
+  "name": "Hillside block stacked up a slope",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 173,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-11-hillside-block-stacked-up-a-slope/summer.png",
+    "frame_size": [
+     176,
+     158
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-00-mansard-block",
+  "name": "Mansard block",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 172,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-00-mansard-block/summer.png",
+    "frame_size": [
+     90,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-12-garden-inn-with-a-long-pergola-and-tables",
+  "name": "Garden inn with a long pergola and tables",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 167,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-12-garden-inn-with-a-long-pergola-and-tables/summer.png",
+    "frame_size": [
+     146,
+     106
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-07-terrace-of-three-houses-of-different-heights",
+  "name": "Terrace of three houses of different heights",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 167,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-07-terrace-of-three-houses-of-different-heights/summer.png",
+    "frame_size": [
+     118,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-01-brick-block",
+  "name": "Brick block",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 167,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-01-brick-block/summer.png",
+    "frame_size": [
+     90,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-06-city-hall-with-a-tall-clock-tower",
+  "name": "City hall with a tall clock tower",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 167,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-06-city-hall-with-a-tall-clock-tower/summer.png",
+    "frame_size": [
+     148,
+     179
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-19-orchard-farmhouse-with-a-fruit-loft-and-an-outside-ladder",
+  "name": "Orchard farmhouse with a fruit loft and an outside ladder",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 165,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-19-orchard-farmhouse-with-a-fruit-loft-and-an-outside-ladder/summer.png",
+    "frame_size": [
+     162,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-19-orchard-farmhouse-with-a-fruit-loft-and-an-outside-ladder/winter.png",
+    "frame_size": [
+     162,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-18-arcade-house-over-a-covered-walk",
+  "name": "Arcade house over a covered walk",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 165,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-18-arcade-house-over-a-covered-walk/summer.png",
+    "frame_size": [
+     118,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-08-glass-arcade-gallery",
+  "name": "Glass arcade gallery",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 165,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-08-glass-arcade-gallery/summer.png",
+    "frame_size": [
+     166,
+     158
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-18-goose-pond-farmhouse-a-little-bridge-over-the-pond",
+  "name": "Goose-pond farmhouse, a little bridge over the pond",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 164,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-18-goose-pond-farmhouse-a-little-bridge-over-the-pond/summer.png",
+    "frame_size": [
+     172,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-18-goose-pond-farmhouse-a-little-bridge-over-the-pond/winter.png",
+    "frame_size": [
+     172,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-07-galleried-inn-round-a-court",
+  "name": "Galleried inn round a court",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 163,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-07-galleried-inn-round-a-court/summer.png",
+    "frame_size": [
+     146,
+     116
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-07-brewery",
+  "name": "Brewery",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 162,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-07-brewery/summer.png",
+    "frame_size": [
+     140,
+     132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-07-brewery/winter.png",
+    "frame_size": [
+     140,
+     132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-15-paper-mill",
+  "name": "Paper mill",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 153,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-15-paper-mill/summer.png",
+    "frame_size": [
+     164,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-15-paper-mill/winter.png",
+    "frame_size": [
+     164,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-05-wheelwright",
+  "name": "Wheelwright",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 152,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-05-wheelwright/summer.png",
+    "frame_size": [
+     118,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-05-wheelwright/winter.png",
+    "frame_size": [
+     118,
+     110
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-19-ropewalk",
+  "name": "Ropewalk",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 150,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-19-ropewalk/summer.png",
+    "frame_size": [
+     166,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-08-farmhouse-with-an-attached-dovecote-tower",
+  "name": "Farmhouse with an attached dovecote tower",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 149,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-08-farmhouse-with-an-attached-dovecote-tower/summer.png",
+    "frame_size": [
+     152,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-18-pilgrim-hostel-with-a-cloister-walk",
+  "name": "Pilgrim hostel with a cloister walk",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 149,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-18-pilgrim-hostel-with-a-cloister-walk/summer.png",
+    "frame_size": [
+     146,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-09-twin-bay-house",
+  "name": "Twin-bay house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 149,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-09-twin-bay-house/summer.png",
+    "frame_size": [
+     94,
+     100
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-19-broadcasting-hall-with-a-lattice-mast",
+  "name": "Broadcasting hall with a lattice mast",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 149,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-19-broadcasting-hall-with-a-lattice-mast/summer.png",
+    "frame_size": [
+     158,
+     186
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-14-homestead-with-a-veranda-round-three-sides",
+  "name": "Homestead with a veranda round three sides",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 146,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-14-homestead-with-a-veranda-round-three-sides/summer.png",
+    "frame_size": [
+     158,
+     133
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-14-homestead-with-a-veranda-round-three-sides/winter.png",
+    "frame_size": [
+     158,
+     133
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-19-twin-spired-abbey",
+  "name": "Twin-spired abbey",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 146,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-19-twin-spired-abbey/summer.png",
+    "frame_size": [
+     166,
+     204
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-16-airship-terminal-with-a-mooring-mast",
+  "name": "Airship terminal with a mooring mast",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 146,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-16-airship-terminal-with-a-mooring-mast/summer.png",
+    "frame_size": [
+     162,
+     199
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-17-hunting-lodge-with-a-long-log-front",
+  "name": "Hunting lodge with a long log front",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 143,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-17-hunting-lodge-with-a-long-log-front/summer.png",
+    "frame_size": [
+     149,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-17-courtyard-house-with-an-inner-tree",
+  "name": "Courtyard house with an inner tree",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 142,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-17-courtyard-house-with-an-inner-tree/summer.png",
+    "frame_size": [
+     122,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-13-sheep-farm",
+  "name": "Sheep farm",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 139,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-13-sheep-farm/summer.png",
+    "frame_size": [
+     162,
+     105
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-13-sheep-farm/winter.png",
+    "frame_size": [
+     162,
+     105
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-11-crooked-inn",
+  "name": "Crooked inn",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 139,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-11-crooked-inn/summer.png",
+    "frame_size": [
+     104,
+     123
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-10-watermill-with-a-big-wheel-on-the-side-and-a-leat",
+  "name": "Watermill with a big wheel on the side and a leat",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 137,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-10-watermill-with-a-big-wheel-on-the-side-and-a-leat/summer.png",
+    "frame_size": [
+     148,
+     122
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-10-watermill-with-a-big-wheel-on-the-side-and-a-leat/winter.png",
+    "frame_size": [
+     148,
+     122
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-10-wedge-house",
+  "name": "Wedge house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 137,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-10-wedge-house/summer.png",
+    "frame_size": [
+     116,
+     127
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-12-customs-house-with-a-flagpole-tower",
+  "name": "Customs house with a flagpole tower",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 137,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-12-customs-house-with-a-flagpole-tower/summer.png",
+    "frame_size": [
+     148,
+     175
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-12-dairy-farm",
+  "name": "Dairy farm",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 136,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-12-dairy-farm/summer.png",
+    "frame_size": [
+     160,
+     101
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-13-cart-shed",
+  "name": "Cart shed",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 133,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-13-cart-shed/summer.png",
+    "frame_size": [
+     140,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-13-cart-shed/winter.png",
+    "frame_size": [
+     140,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-02-grand-hotel",
+  "name": "Grand hotel",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 133,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-02-grand-hotel/summer.png",
+    "frame_size": [
+     124,
+     148
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-06-mountain-chalet",
+  "name": "Mountain chalet",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 131,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-06-mountain-chalet/summer.png",
+    "frame_size": [
+     168,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-06-mountain-chalet/winter.png",
+    "frame_size": [
+     168,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-06-corner-house-with-an-oriel-turret",
+  "name": "Corner house with an oriel turret",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 129,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-06-corner-house-with-an-oriel-turret/summer.png",
+    "frame_size": [
+     102,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-19-round-tower-apartments",
+  "name": "Round tower apartments",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 129,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-19-round-tower-apartments/summer.png",
+    "frame_size": [
+     106,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-09-museum-with-long-side-galleries",
+  "name": "Museum with long side galleries",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 128,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-09-museum-with-long-side-galleries/summer.png",
+    "frame_size": [
+     178,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-06-reed-fishers-hut-on-stilts-over-a-pond-with-a-plank-walkway",
+  "name": "Reed fisher's hut on stilts over a pond, with a plank walkway",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 125,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-06-reed-fishers-hut-on-stilts-over-a-pond-with-a-plank-walkway/summer.png",
+    "frame_size": [
+     138,
+     107
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-06-reed-fishers-hut-on-stilts-over-a-pond-with-a-plank-walkway/winter.png",
+    "frame_size": [
+     138,
+     107
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-19-tower-house-with-a-roof-lookout",
+  "name": "Tower house with a roof lookout",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 125,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-19-tower-house-with-a-roof-lookout/summer.png",
+    "frame_size": [
+     86,
+     145
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-07-cathedral-with-a-rose-window-and-a-spire",
+  "name": "Cathedral with a rose window and a spire",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 124,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-07-cathedral-with-a-rose-window-and-a-spire/summer.png",
+    "frame_size": [
+     172,
+     190
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-06-open-hay-barn",
+  "name": "Open hay barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 121,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-06-open-hay-barn/summer.png",
+    "frame_size": [
+     124,
+     95
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-06-open-hay-barn/winter.png",
+    "frame_size": [
+     124,
+     95
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-10-row-of-pig-sties-with-small-walled-yards",
+  "name": "Row of pig sties with small walled yards",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 120,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-10-row-of-pig-sties-with-small-walled-yards/summer.png",
+    "frame_size": [
+     150,
+     94
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-10-row-of-pig-sties-with-small-walled-yards/winter.png",
+    "frame_size": [
+     150,
+     94
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-05-opera-house-with-a-stepped-roof",
+  "name": "Opera house with a stepped roof",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 119,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-05-opera-house-with-a-stepped-roof/summer.png",
+    "frame_size": [
+     166,
+     162
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-16-ferry-inn-with-a-jetty-and-a-moored-boat",
+  "name": "Ferry inn with a jetty and a moored boat",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 118,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-16-ferry-inn-with-a-jetty-and-a-moored-boat/summer.png",
+    "frame_size": [
+     154,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-05-bank-house",
+  "name": "Bank house",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 117,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-05-bank-house/summer.png",
+    "frame_size": [
+     162,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-05-bank-house/winter.png",
+    "frame_size": [
+     162,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-08-woodcutters-log-cabin",
+  "name": "Woodcutter's log cabin",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 115,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-08-woodcutters-log-cabin/summer.png",
+    "frame_size": [
+     148,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-08-woodcutters-log-cabin/winter.png",
+    "frame_size": [
+     148,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-07-stepped-gable-farmhouse",
+  "name": "Stepped-gable farmhouse",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 115,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-07-stepped-gable-farmhouse/summer.png",
+    "frame_size": [
+     138,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-07-stepped-gable-farmhouse/winter.png",
+    "frame_size": [
+     138,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-08-dutch-barn",
+  "name": "Dutch barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 115,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-08-dutch-barn/summer.png",
+    "frame_size": [
+     122,
+     98
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-08-dutch-barn/winter.png",
+    "frame_size": [
+     122,
+     98
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-00-railway-station",
+  "name": "Railway station",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 115,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-00-railway-station/summer.png",
+    "frame_size": [
+     110,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-09-hop-farm-with-a-round-kiln-and-a-tilted-cowl",
+  "name": "Hop farm with a round kiln and a tilted cowl",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 114,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-09-hop-farm-with-a-round-kiln-and-a-tilted-cowl/summer.png",
+    "frame_size": [
+     164,
+     132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-09-hop-farm-with-a-round-kiln-and-a-tilted-cowl/winter.png",
+    "frame_size": [
+     164,
+     132
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-11-post-mill",
+  "name": "Post mill",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 113,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-11-post-mill/summer.png",
+    "frame_size": [
+     118,
+     148
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-11-post-mill/winter.png",
+    "frame_size": [
+     118,
+     148
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-06-three-gabled-pub",
+  "name": "Three-gabled pub",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 113,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-06-three-gabled-pub/summer.png",
+    "frame_size": [
+     114,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-13-harbour-office-with-a-lighthouse-tower",
+  "name": "Harbour office with a lighthouse tower",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 113,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-13-harbour-office-with-a-lighthouse-tower/summer.png",
+    "frame_size": [
+     132,
+     157
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-15-science-museum-with-a-giant-orrery-on-the-roof",
+  "name": "Science museum with a giant orrery on the roof",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 112,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-15-science-museum-with-a-giant-orrery-on-the-roof/summer.png",
+    "frame_size": [
+     154,
+     180
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-04-arch-inn",
+  "name": "Arch inn",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 110,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-04-arch-inn/summer.png",
+    "frame_size": [
+     132,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-04-tithe-barn",
+  "name": "Tithe barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 109,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-04-tithe-barn/summer.png",
+    "frame_size": [
+     161,
+     127
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-13-roof-garden-house-with-trees-on-top",
+  "name": "Roof-garden house with trees on top",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 109,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-13-roof-garden-house-with-trees-on-top/summer.png",
+    "frame_size": [
+     94,
+     108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-16-lambing-shed-with-lean-tos-down-both-sides",
+  "name": "Lambing shed with lean-tos down both sides",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 108,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-16-lambing-shed-with-lean-tos-down-both-sides/summer.png",
+    "frame_size": [
+     132,
+     93
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-16-lambing-shed-with-lean-tos-down-both-sides/winter.png",
+    "frame_size": [
+     132,
+     93
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-09-chandler",
+  "name": "Chandler",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 108,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-09-chandler/summer.png",
+    "frame_size": [
+     110,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-09-chandler/winter.png",
+    "frame_size": [
+     110,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-09-corner-butcher-with-a-long-wrapped-awning",
+  "name": "Corner butcher with a long wrapped awning",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 108,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-09-corner-butcher-with-a-long-wrapped-awning/summer.png",
+    "frame_size": [
+     122,
+     103
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-04-courtyard-farm",
+  "name": "Courtyard farm",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 106,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-04-courtyard-farm/summer.png",
+    "frame_size": [
+     162,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-04-courtyard-farm/winter.png",
+    "frame_size": [
+     162,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-04-cooper",
+  "name": "Cooper",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 106,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-04-cooper/summer.png",
+    "frame_size": [
+     134,
+     91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-12-iron-balcony-house",
+  "name": "Iron-balcony house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 106,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-12-iron-balcony-house/summer.png",
+    "frame_size": [
+     98,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-04-fire-station-with-a-hose-tower",
+  "name": "Fire station with a hose tower",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 106,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-04-fire-station-with-a-hose-tower/summer.png",
+    "frame_size": [
+     128,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-10-artists-lofts-with-huge-windows",
+  "name": "Artists' lofts with huge windows",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 106,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-10-artists-lofts-with-huge-windows/summer.png",
+    "frame_size": [
+     134,
+     144
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-05-canal-house",
+  "name": "Canal house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 105,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-05-canal-house/summer.png",
+    "frame_size": [
+     96,
+     113
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-18-town-gate",
+  "name": "Town gate",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 105,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-18-town-gate/summer.png",
+    "frame_size": [
+     154,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-05-shepherds-hut-on-four-iron-wheels",
+  "name": "Shepherd's hut on four iron wheels",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 104,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-05-shepherds-hut-on-four-iron-wheels/summer.png",
+    "frame_size": [
+     102,
+     80
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-05-shepherds-hut-on-four-iron-wheels/winter.png",
+    "frame_size": [
+     102,
+     80
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-11-cider-farm",
+  "name": "Cider farm",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 104,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-11-cider-farm/summer.png",
+    "frame_size": [
+     158,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-11-cider-farm/winter.png",
+    "frame_size": [
+     158,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-12-grand-observatory-on-a-terrace",
+  "name": "Grand observatory on a terrace",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 104,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-12-grand-observatory-on-a-terrace/summer.png",
+    "frame_size": [
+     172,
+     159
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-06-courthouse-up-a-wide-flight-of-steps",
+  "name": "Courthouse up a wide flight of steps",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 100,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-06-courthouse-up-a-wide-flight-of-steps/summer.png",
+    "frame_size": [
+     146,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-13-bank-with-giant-columns",
+  "name": "Bank with giant columns",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 99,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-13-bank-with-giant-columns/summer.png",
+    "frame_size": [
+     172,
+     154
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-10-twin-cottage",
+  "name": "Twin cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 98,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-10-twin-cottage/summer.png",
+    "frame_size": [
+     128,
+     92
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-10-twin-cottage/winter.png",
+    "frame_size": [
+     128,
+     92
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-07-tea-house-with-deep-upturned-eaves-and-a-veranda",
+  "name": "Tea house with deep upturned eaves and a veranda",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 98,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-07-tea-house-with-deep-upturned-eaves-and-a-veranda/summer.png",
+    "frame_size": [
+     118,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-05-schoolhouse-with-a-bell-cote",
+  "name": "Schoolhouse with a bell cote",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 98,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-05-schoolhouse-with-a-bell-cote/summer.png",
+    "frame_size": [
+     126,
+     97
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-04-beekeepers-cottage",
+  "name": "Beekeeper's cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 97,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-04-beekeepers-cottage/summer.png",
+    "frame_size": [
+     118,
+     76
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-04-beekeepers-cottage/winter.png",
+    "frame_size": [
+     118,
+     76
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "09-03-balcony-block",
+  "name": "Balcony block",
+  "tier": 9,
+  "setting": "city",
+  "category": "Apartments",
+  "complexity": 97,
+  "seasons": {
+   "summer": {
+    "image": "buildings/09-03-balcony-block/summer.png",
+    "frame_size": [
+     90,
+     129
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-04-merchants-house-with-a-stepped-gable",
+  "name": "Merchant's house with a stepped gable",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 96,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-04-merchants-house-with-a-stepped-gable/summer.png",
+    "frame_size": [
+     94,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-16-one-room-wide-tall-house",
+  "name": "One-room-wide tall house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 96,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-16-one-room-wide-tall-house/summer.png",
+    "frame_size": [
+     68,
+     133
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-16-upland-farm-on-stone-piers-stores-below-the-floor",
+  "name": "Upland farm on stone piers, stores below the floor",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 94,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-16-upland-farm-on-stone-piers-stores-below-the-floor/summer.png",
+    "frame_size": [
+     160,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-16-upland-farm-on-stone-piers-stores-below-the-floor/winter.png",
+    "frame_size": [
+     160,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-11-hen-house-on-legs-with-a-ramp-and-a-fenced-run",
+  "name": "Hen house on legs with a ramp and a fenced run",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 94,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-11-hen-house-on-legs-with-a-ramp-and-a-fenced-run/summer.png",
+    "frame_size": [
+     116,
+     82
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-11-hen-house-on-legs-with-a-ramp-and-a-fenced-run/winter.png",
+    "frame_size": [
+     116,
+     82
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-09-long-low-cow-byre-with-a-ramp-and-a-dung-yard",
+  "name": "Long low cow byre with a ramp and a dung yard",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 93,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-09-long-low-cow-byre-with-a-ramp-and-a-dung-yard/summer.png",
+    "frame_size": [
+     154,
+     91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-09-long-low-cow-byre-with-a-ramp-and-a-dung-yard/winter.png",
+    "frame_size": [
+     154,
+     91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-08-crooked-bookshop",
+  "name": "Crooked bookshop",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 91,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-08-crooked-bookshop/summer.png",
+    "frame_size": [
+     90,
+     117
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-18-botanical-glasshouse-with-a-great-dome",
+  "name": "Botanical glasshouse with a great dome",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 91,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-18-botanical-glasshouse-with-a-great-dome/summer.png",
+    "frame_size": [
+     166,
+     140
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-15-bank-barn",
+  "name": "Bank barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 90,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-15-bank-barn/summer.png",
+    "frame_size": [
+     162,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-15-bank-barn/winter.png",
+    "frame_size": [
+     162,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-01-coaching-inn-with-a-wing",
+  "name": "Coaching inn with a wing",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 90,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-01-coaching-inn-with-a-wing/summer.png",
+    "frame_size": [
+     112,
+     103
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-08-old-keep-turned-into-an-inn",
+  "name": "Old keep turned into an inn",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 90,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-08-old-keep-turned-into-an-inn/summer.png",
+    "frame_size": [
+     114,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-11-iron-covered-market",
+  "name": "Iron covered market",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 89,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-11-iron-covered-market/summer.png",
+    "frame_size": [
+     150,
+     118
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-19-stable-inn-with-a-dovecote-gable",
+  "name": "Stable inn with a dovecote gable",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 88,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-19-stable-inn-with-a-dovecote-gable/summer.png",
+    "frame_size": [
+     132,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-15-smoke-hole-longhouse",
+  "name": "Smoke-hole longhouse",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 87,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-15-smoke-hole-longhouse/summer.png",
+    "frame_size": [
+     158,
+     124
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-12-stable-block-with-an-arch-and-a-clock-cupola",
+  "name": "Stable block with an arch and a clock cupola",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 87,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-12-stable-block-with-an-arch-and-a-clock-cupola/summer.png",
+    "frame_size": [
+     154,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-12-stable-block-with-an-arch-and-a-clock-cupola/winter.png",
+    "frame_size": [
+     154,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-02-inn-with-a-corner-tower",
+  "name": "Inn with a corner tower",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 87,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-02-inn-with-a-corner-tower/summer.png",
+    "frame_size": [
+     100,
+     101
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-18-bee-shed",
+  "name": "Bee shed",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 86,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-18-bee-shed/summer.png",
+    "frame_size": [
+     108,
+     87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-18-bee-shed/winter.png",
+    "frame_size": [
+     108,
+     87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-19-tool-barn",
+  "name": "Tool barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 86,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-19-tool-barn/summer.png",
+    "frame_size": [
+     116,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-19-tool-barn/winter.png",
+    "frame_size": [
+     116,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-03-farm-with-a-silo",
+  "name": "Farm with a silo",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 85,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-03-farm-with-a-silo/summer.png",
+    "frame_size": [
+     103,
+     92
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-03-farm-with-a-silo/winter.png",
+    "frame_size": [
+     103,
+     92
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-08-tannery",
+  "name": "Tannery",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 85,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-08-tannery/summer.png",
+    "frame_size": [
+     134,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-08-tannery/winter.png",
+    "frame_size": [
+     134,
+     109
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-14-clockmaker",
+  "name": "Clockmaker",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 84,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-14-clockmaker/summer.png",
+    "frame_size": [
+     86,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-14-clockmaker/winter.png",
+    "frame_size": [
+     86,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-00-inn",
+  "name": "Inn",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 84,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-00-inn/summer.png",
+    "frame_size": [
+     94,
+     97
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-10-post-office-with-a-clock-and-a-letter-pillar",
+  "name": "Post office with a clock and a letter pillar",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 83,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-10-post-office-with-a-clock-and-a-letter-pillar/summer.png",
+    "frame_size": [
+     118,
+     106
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-00-town-hall",
+  "name": "Town hall",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 83,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-00-town-hall/summer.png",
+    "frame_size": [
+     102,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-10-harbour-terminal-with-a-pier",
+  "name": "Harbour terminal with a pier",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 83,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-10-harbour-terminal-with-a-pier/summer.png",
+    "frame_size": [
+     166,
+     146
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-15-eyebrow-cottage",
+  "name": "Eyebrow cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 82,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-15-eyebrow-cottage/summer.png",
+    "frame_size": [
+     134,
+     95
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-00-farmhouse-with-a-board-wing",
+  "name": "Farmhouse with a board wing",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 82,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-00-farmhouse-with-a-board-wing/summer.png",
+    "frame_size": [
+     98,
+     86
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-02-two-storey-farmhouse",
+  "name": "Two-storey farmhouse",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 82,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-02-two-storey-farmhouse/summer.png",
+    "frame_size": [
+     82,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-02-two-storey-farmhouse/winter.png",
+    "frame_size": [
+     82,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-07-granary-on-mushroom-staddle-stones",
+  "name": "Granary on mushroom staddle stones",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 81,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-07-granary-on-mushroom-staddle-stones/summer.png",
+    "frame_size": [
+     98,
+     88
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-07-granary-on-mushroom-staddle-stones/winter.png",
+    "frame_size": [
+     98,
+     88
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-13-boatbuilders-shed-on-a-slip-with-a-half-built-hull",
+  "name": "Boatbuilder's shed on a slip with a half-built hull",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 81,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-13-boatbuilders-shed-on-a-slip-with-a-half-built-hull/summer.png",
+    "frame_size": [
+     154,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-13-boatbuilders-shed-on-a-slip-with-a-half-built-hull/winter.png",
+    "frame_size": [
+     154,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-11-tram-depot-with-arched-doors",
+  "name": "Tram depot with arched doors",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 81,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-11-tram-depot-with-arched-doors/summer.png",
+    "frame_size": [
+     168,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-10-crossroads-lodge",
+  "name": "Crossroads lodge",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 80,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-10-crossroads-lodge/summer.png",
+    "frame_size": [
+     142,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-14-ship-tavern",
+  "name": "Ship tavern",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 80,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-14-ship-tavern/summer.png",
+    "frame_size": [
+     168,
+     136
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-09-hillside-cottage-with-an-outside-stone-stair-to-an-upper-loft-door",
+  "name": "Hillside cottage with an outside stone stair to an upper loft door",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 79,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-09-hillside-cottage-with-an-outside-stone-stair-to-an-upper-loft-door/summer.png",
+    "frame_size": [
+     140,
+     102
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-09-hillside-cottage-with-an-outside-stone-stair-to-an-upper-loft-door/winter.png",
+    "frame_size": [
+     140,
+     102
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-13-mountain-lodge",
+  "name": "Mountain lodge",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 79,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-13-mountain-lodge/summer.png",
+    "frame_size": [
+     138,
+     122
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-01-theatre",
+  "name": "Theatre",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 79,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-01-theatre/summer.png",
+    "frame_size": [
+     100,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-17-gardeners-cottage-with-a-full-length-lean-to-glasshouse-down-one-side",
+  "name": "Gardener's cottage with a full-length lean-to glasshouse down one side",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 78,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-17-gardeners-cottage-with-a-full-length-lean-to-glasshouse-down-one-side/summer.png",
+    "frame_size": [
+     134,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-17-gardeners-cottage-with-a-full-length-lean-to-glasshouse-down-one-side/winter.png",
+    "frame_size": [
+     134,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-15-clock-gable-house",
+  "name": "Clock-gable house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 78,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-15-clock-gable-house/summer.png",
+    "frame_size": [
+     98,
+     107
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-14-domed-public-baths",
+  "name": "Domed public baths",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 77,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-14-domed-public-baths/summer.png",
+    "frame_size": [
+     134,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-15-bathhouse-inn-with-steam-vents-and-a-domed-bath",
+  "name": "Bathhouse inn with steam vents and a domed bath",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 75,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-15-bathhouse-inn-with-steam-vents-and-a-domed-bath/summer.png",
+    "frame_size": [
+     132,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-12-masons-lodge-with-a-timber-hoist-crane-and-stone-blocks",
+  "name": "Mason's lodge with a timber hoist crane and stone blocks",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 74,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-12-masons-lodge-with-a-timber-hoist-crane-and-stone-blocks/summer.png",
+    "frame_size": [
+     148,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-12-masons-lodge-with-a-timber-hoist-crane-and-stone-blocks/winter.png",
+    "frame_size": [
+     148,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-07-observatory-with-an-open-slit-dome",
+  "name": "Observatory with an open-slit dome",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 74,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-07-observatory-with-an-open-slit-dome/summer.png",
+    "frame_size": [
+     118,
+     98
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-18-saw-pit-shed",
+  "name": "Saw pit shed",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 72,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-18-saw-pit-shed/summer.png",
+    "frame_size": [
+     138,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-18-saw-pit-shed/winter.png",
+    "frame_size": [
+     138,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-14-corn-crib",
+  "name": "Corn crib",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 70,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-14-corn-crib/summer.png",
+    "frame_size": [
+     98,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-14-corn-crib/winter.png",
+    "frame_size": [
+     98,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-03-twin-gabled-inn",
+  "name": "Twin-gabled inn",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 70,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-03-twin-gabled-inn/summer.png",
+    "frame_size": [
+     94,
+     96
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-14-crooked-house-over-an-archway",
+  "name": "Crooked house over an archway",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 70,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-14-crooked-house-over-an-archway/summer.png",
+    "frame_size": [
+     94,
+     126
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-03-house-with-a-side-wing",
+  "name": "House with a side wing",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 69,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-03-house-with-a-side-wing/summer.png",
+    "frame_size": [
+     82,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-00-thatched-cottage",
+  "name": "Thatched cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 68,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-00-thatched-cottage/summer.png",
+    "frame_size": [
+     78,
+     71
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-00-thatched-cottage/winter.png",
+    "frame_size": [
+     78,
+     71
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-11-village-store-with-a-long-front-porch-and-goods-stacked-outside",
+  "name": "Village store with a long front porch and goods stacked outside",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 68,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-11-village-store-with-a-long-front-porch-and-goods-stacked-outside/summer.png",
+    "frame_size": [
+     116,
+     90
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-17-sweet-shop-with-striped-walls-and-a-scalloped-roof",
+  "name": "Sweet shop with striped walls and a scalloped roof",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 68,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-17-sweet-shop-with-striped-walls-and-a-scalloped-roof/summer.png",
+    "frame_size": [
+     98,
+     95
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-16-boat-roof-cottage",
+  "name": "Boat-roof cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-16-boat-roof-cottage/summer.png",
+    "frame_size": [
+     128,
+     100
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-16-boat-roof-cottage/winter.png",
+    "frame_size": [
+     128,
+     100
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-18-toll-cottage",
+  "name": "Toll cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-18-toll-cottage/summer.png",
+    "frame_size": [
+     132,
+     91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-18-toll-cottage/winter.png",
+    "frame_size": [
+     132,
+     91
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-19-croft",
+  "name": "Croft",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 67,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-19-croft/summer.png",
+    "frame_size": [
+     128,
+     87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-19-croft/winter.png",
+    "frame_size": [
+     128,
+     87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-11-hermits-a-frame",
+  "name": "Hermit's A-frame",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 66,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-11-hermits-a-frame/summer.png",
+    "frame_size": [
+     118,
+     108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-11-hermits-a-frame/winter.png",
+    "frame_size": [
+     118,
+     108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-10-bastle",
+  "name": "Bastle",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 63,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-10-bastle/summer.png",
+    "frame_size": [
+     142,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-10-bastle/winter.png",
+    "frame_size": [
+     142,
+     130
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "10-09-exhibition-palace-of-iron-and-glass",
+  "name": "Exhibition palace of iron and glass",
+  "tier": 10,
+  "setting": "city",
+  "category": "Landmarks",
+  "complexity": 63,
+  "seasons": {
+   "summer": {
+    "image": "buildings/10-09-exhibition-palace-of-iron-and-glass/summer.png",
+    "frame_size": [
+     174,
+     152
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-14-tailor-with-a-big-upper-bay-window",
+  "name": "Tailor with a big upper bay window",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 61,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-14-tailor-with-a-big-upper-bay-window/summer.png",
+    "frame_size": [
+     90,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-19-hardware-store-with-a-loft-hoist",
+  "name": "Hardware store with a loft hoist",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 61,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-19-hardware-store-with-a-loft-hoist/summer.png",
+    "frame_size": [
+     110,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-10-bandstand",
+  "name": "Bandstand",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 60,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-10-bandstand/summer.png",
+    "frame_size": [
+     86,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-12-charcoal-burners-cone-hut-beside-a-smoking-earth-mound-kiln",
+  "name": "Charcoal burner's cone hut beside a smoking earth mound kiln",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 59,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-12-charcoal-burners-cone-hut-beside-a-smoking-earth-mound-kiln/summer.png",
+    "frame_size": [
+     134,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-12-charcoal-burners-cone-hut-beside-a-smoking-earth-mound-kiln/winter.png",
+    "frame_size": [
+     134,
+     111
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-12-cobbler-with-a-giant-boot-sign",
+  "name": "Cobbler with a giant boot sign",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 59,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-12-cobbler-with-a-giant-boot-sign/summer.png",
+    "frame_size": [
+     94,
+     85
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-13-fish-shop-with-barrels-and-a-small-quay",
+  "name": "Fish shop with barrels and a small quay",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 59,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-13-fish-shop-with-barrels-and-a-small-quay/summer.png",
+    "frame_size": [
+     122,
+     90
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-16-hat-kiosk",
+  "name": "Hat kiosk",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 57,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-16-hat-kiosk/summer.png",
+    "frame_size": [
+     74,
+     79
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-00-gabled-town-house",
+  "name": "Gabled town house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 57,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-00-gabled-town-house/summer.png",
+    "frame_size": [
+     68,
+     112
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-17-standalone-round-dovecote-with-a-lantern",
+  "name": "Standalone round dovecote with a lantern",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 56,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-17-standalone-round-dovecote-with-a-lantern/summer.png",
+    "frame_size": [
+     82,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-17-standalone-round-dovecote-with-a-lantern/winter.png",
+    "frame_size": [
+     82,
+     99
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-18-barbers",
+  "name": "Barber's",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 54,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-18-barbers/summer.png",
+    "frame_size": [
+     70,
+     67
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-13-tree-cottage",
+  "name": "Tree cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 53,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-13-tree-cottage/summer.png",
+    "frame_size": [
+     122,
+     164
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-06-glassblower",
+  "name": "Glassblower",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 53,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-06-glassblower/summer.png",
+    "frame_size": [
+     110,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-06-glassblower/winter.png",
+    "frame_size": [
+     110,
+     125
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-15-toy-shop-with-a-pointed-tower-and-a-windmill-on-the-roof",
+  "name": "Toy shop with a pointed tower and a windmill on the roof",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 53,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-15-toy-shop-with-a-pointed-tower-and-a-windmill-on-the-roof/summer.png",
+    "frame_size": [
+     106,
+     119
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-01-corner-shop-with-a-turret",
+  "name": "Corner shop with a turret",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 51,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-01-corner-shop-with-a-turret/summer.png",
+    "frame_size": [
+     86,
+     90
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-06-cheese-shop",
+  "name": "Cheese shop",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 51,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-06-cheese-shop/summer.png",
+    "frame_size": [
+     106,
+     87
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-03-market-hall-on-posts",
+  "name": "Market hall on posts",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 50,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-03-market-hall-on-posts/summer.png",
+    "frame_size": [
+     86,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-07-turf-house-half-sunk-into-a-grassy-mound-round-door-only-the-front-wall-shows",
+  "name": "Turf house half sunk into a grassy mound, round door, only the front wall shows",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-07-turf-house-half-sunk-into-a-grassy-mound-round-door-only-the-front-wall-shows/summer.png",
+    "frame_size": [
+     134,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-07-turf-house-half-sunk-into-a-grassy-mound-round-door-only-the-front-wall-shows/winter.png",
+    "frame_size": [
+     134,
+     114
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-14-round-stone-tower-cottage",
+  "name": "Round stone tower-cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-14-round-stone-tower-cottage/summer.png",
+    "frame_size": [
+     98,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-14-round-stone-tower-cottage/winter.png",
+    "frame_size": [
+     98,
+     115
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "06-09-round-tower-alehouse",
+  "name": "Round-tower alehouse",
+  "tier": 6,
+  "setting": "village",
+  "category": "Inns",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/06-09-round-tower-alehouse/summer.png",
+    "frame_size": [
+     110,
+     108
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-01-mansard-town-house",
+  "name": "Mansard town house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-01-mansard-town-house/summer.png",
+    "frame_size": [
+     72,
+     93
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-17-water-tower-on-arches",
+  "name": "Water tower on arches",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 49,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-17-water-tower-on-arches/summer.png",
+    "frame_size": [
+     96,
+     128
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-00-bakery",
+  "name": "Bakery",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 48,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-00-bakery/summer.png",
+    "frame_size": [
+     76,
+     86
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/05-00-bakery/winter.png",
+    "frame_size": [
+     76,
+     86
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-02-chapel",
+  "name": "Chapel",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 48,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-02-chapel/summer.png",
+    "frame_size": [
+     100,
+     120
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "07-02-flat-fronted-town-house",
+  "name": "Flat-fronted town house",
+  "tier": 7,
+  "setting": "town",
+  "category": "Town houses",
+  "complexity": 47,
+  "seasons": {
+   "summer": {
+    "image": "buildings/07-02-flat-fronted-town-house/summer.png",
+    "frame_size": [
+     68,
+     82
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-03-l-shaped-cottage",
+  "name": "L-shaped cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 46,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-03-l-shaped-cottage/summer.png",
+    "frame_size": [
+     90,
+     80
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-05-round-barn-with-a-central-cupola",
+  "name": "Round barn with a central cupola",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 46,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-05-round-barn-with-a-central-cupola/summer.png",
+    "frame_size": [
+     114,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-05-round-barn-with-a-central-cupola/winter.png",
+    "frame_size": [
+     114,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-17-lime-kiln",
+  "name": "Lime kiln",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 46,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-17-lime-kiln/summer.png",
+    "frame_size": [
+     162,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-17-lime-kiln/winter.png",
+    "frame_size": [
+     162,
+     104
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-03-barn-with-a-silo",
+  "name": "Barn with a silo",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 44,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-03-barn-with-a-silo/summer.png",
+    "frame_size": [
+     108,
+     101
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-03-barn-with-a-silo/winter.png",
+    "frame_size": [
+     108,
+     101
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-02-gable-front-cottage",
+  "name": "Gable-front cottage",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 43,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-02-gable-front-cottage/summer.png",
+    "frame_size": [
+     80,
+     76
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-02-gable-front-cottage/winter.png",
+    "frame_size": [
+     80,
+     76
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "05-02-double-fronted-shop",
+  "name": "Double-fronted shop",
+  "tier": 5,
+  "setting": "village",
+  "category": "Shops",
+  "complexity": 42,
+  "seasons": {
+   "summer": {
+    "image": "buildings/05-02-double-fronted-shop/summer.png",
+    "frame_size": [
+     84,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-00-gambrel-barn",
+  "name": "Gambrel barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 41,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-00-gambrel-barn/summer.png",
+    "frame_size": [
+     94,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-00-gambrel-barn/winter.png",
+    "frame_size": [
+     94,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-02-weavers-house",
+  "name": "Weaver's house",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 41,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-02-weavers-house/summer.png",
+    "frame_size": [
+     84,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-02-weavers-house/winter.png",
+    "frame_size": [
+     84,
+     89
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "02-01-longhouse-farm",
+  "name": "Longhouse farm",
+  "tier": 2,
+  "setting": "rural",
+  "category": "Farmhouses",
+  "complexity": 40,
+  "seasons": {
+   "summer": {
+    "image": "buildings/02-01-longhouse-farm/summer.png",
+    "frame_size": [
+     98,
+     85
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/02-01-longhouse-farm/winter.png",
+    "frame_size": [
+     98,
+     85
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-02-stable",
+  "name": "Stable",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 37,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-02-stable/summer.png",
+    "frame_size": [
+     100,
+     74
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-00-smithy",
+  "name": "Smithy",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 36,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-00-smithy/summer.png",
+    "frame_size": [
+     86,
+     70
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/04-00-smithy/winter.png",
+    "frame_size": [
+     86,
+     70
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-01-potters-workshop",
+  "name": "Potter's workshop",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 35,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-01-potters-workshop/summer.png",
+    "frame_size": [
+     90,
+     72
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "01-01-round-hut",
+  "name": "Round hut",
+  "tier": 1,
+  "setting": "rural",
+  "category": "Cottages",
+  "complexity": 32,
+  "seasons": {
+   "summer": {
+    "image": "buildings/01-01-round-hut/summer.png",
+    "frame_size": [
+     70,
+     52
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/01-01-round-hut/winter.png",
+    "frame_size": [
+     70,
+     52
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "08-03-clock-tower",
+  "name": "Clock tower",
+  "tier": 8,
+  "setting": "town",
+  "category": "Civic",
+  "complexity": 32,
+  "seasons": {
+   "summer": {
+    "image": "buildings/08-03-clock-tower/summer.png",
+    "frame_size": [
+     70,
+     121
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "03-01-stone-barn",
+  "name": "Stone barn",
+  "tier": 3,
+  "setting": "rural",
+  "category": "Barns",
+  "complexity": 19,
+  "seasons": {
+   "summer": {
+    "image": "buildings/03-01-stone-barn/summer.png",
+    "frame_size": [
+     94,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   },
+   "winter": {
+    "image": "buildings/03-01-stone-barn/winter.png",
+    "frame_size": [
+     94,
+     84
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ },
+ {
+  "id": "04-03-open-timber-shed",
+  "name": "Open timber shed",
+  "tier": 4,
+  "setting": "village",
+  "category": "Workshops",
+  "complexity": 17,
+  "seasons": {
+   "summer": {
+    "image": "buildings/04-03-open-timber-shed/summer.png",
+    "frame_size": [
+     94,
+     67
+    ],
+    "angles": [
+     "s",
+     "se",
+     "e",
+     "ne",
+     "n",
+     "nw",
+     "w",
+     "sw"
+    ]
+   }
+  }
+ }
+]

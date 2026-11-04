@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixel Buildings</title>
+<meta name="description" content="Free pixel-art buildings for games, from rural huts to city landmarks, in summer and winter. CC0.">
+<style>
+:root{--bg:#f6efe0;--panel:#fffaf0;--ink:#3b2c2a;--soft:#7a675c;--line:#e3d5bd;--accent:#b8483e;--sky:#cfe3ea;--dusk:#46527a}
+@media (prefers-color-scheme:dark){:root{--bg:#22202c;--panel:#2c2937;--ink:#f1e9da;--soft:#b5a99c;--line:#433e50;--accent:#e58a72;--sky:#39445f;--dusk:#2f3752}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Georgia,'Iowan Old Style',serif}
+header{max-width:1200px;margin:auto;padding:32px 16px 8px}
+h1{margin:0;font-size:clamp(30px,5vw,46px)}
+header p{margin:4px 0 0;color:var(--soft)}
+.bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line)}
+.bar>div{max-width:1200px;margin:auto;padding:10px 16px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+button,input{font:inherit;color:inherit}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:4px 13px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+.gap{flex:1}
+input[type=search]{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:4px 13px;min-width:0;width:190px}
+main{max-width:1200px;margin:auto;padding:16px}
+#count{color:var(--soft);margin:0 0 12px}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.card{all:unset;box-sizing:border-box;cursor:pointer;background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-start}
+.card:hover,.card:focus-visible{border-color:var(--accent)}
+.card .pic{height:190px;flex:none;display:flex;align-items:end;justify-content:center;background:var(--sky)}
+.winter .pic,.pic.winter{background:var(--dusk)}
+.card b{display:block;padding:8px 12px 0;font-weight:normal;overflow-wrap:anywhere}
+.card small{display:block;padding:0 12px 10px;color:var(--soft)}
+.sprite{image-rendering:pixelated;background-repeat:no-repeat;flex:none}
+dialog{border:0;border-radius:14px;background:var(--panel);color:var(--ink);padding:0;width:min(860px,calc(100vw - 32px));max-height:calc(100vh - 32px)}
+dialog::backdrop{background:#0007}
+.top{display:flex;gap:8px;align-items:center;padding:14px 16px;border-bottom:1px solid var(--line)}
+.top h2{margin:0;flex:1;font-size:22px;overflow-wrap:anywhere}
+.big{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1px;background:var(--line)}
+.big .pic{height:300px;display:flex;align-items:end;justify-content:center;background:var(--sky);padding-bottom:12px}
+.row{display:flex;flex-wrap:wrap;gap:8px;padding:12px 16px;align-items:center}
+.row a{color:var(--accent)}
+footer{max-width:1200px;margin:auto;padding:24px 16px;color:var(--soft)}
+footer a{color:inherit}
+</style>
+</head>
+<body>
+<header>
+  <h1>Pixel Buildings</h1>
+  <p>Free pixel-art buildings for your game, from rural huts to city landmarks. Each is its own design, in summer and winter. CC0: use them in anything.</p>
+</header>
+<div class="bar"><div>
+  <span id="settings"></span><span class="gap"></span>
+  <button class="chip" id="season" type="button">Show winter</button>
+  <input type="search" id="q" placeholder="Search" aria-label="Search buildings">
+</div><div id="cats" style="padding-top:0"></div></div>
+<main><p id="count"></p><div id="grid"></div></main>
+<dialog id="box"></dialog>
+<footer>Licence: <a href="LICENSE">CC0 1.0</a>. Each building's folder holds its PNG sheets and JSON.</footer>
+<script>
+const ANGLES = ['s','se','e','ne','n','nw','w','sw'];
+const NAMES = {s:'South',se:'South-east',e:'East',ne:'North-east',n:'North',nw:'North-west',w:'West',sw:'South-west'};
+const state = {setting:'All', category:'All', season:'summer', q:''};
+const $ = id => document.getElementById(id);
+let all = [];
+
+function sprite(entry, season, angle, zoom) {
+  const s = entry.seasons[season] || Object.values(entry.seasons)[0];
+  const [w, h] = s.frame_size, i = s.angles.indexOf(angle);
+  const el = document.createElement('div');
+  el.className = 'sprite';
+  el.style.cssText = `width:${w*zoom}px;height:${h*zoom}px;background-size:${w*zoom}px auto;background-position:0 ${-i*h*zoom}px`;
+  el.dataset.src = s.image;
+  return el;
+}
+const lazy = new IntersectionObserver(items => items.forEach(it => {
+  if (it.isIntersecting) { it.target.style.backgroundImage = `url(${it.target.dataset.src})`; lazy.unobserve(it.target); }
+}), {rootMargin:'400px'});
+
+function chips(host, values, key) {
+  host.replaceChildren(...values.map(v => {
+    const b = document.createElement('button');
+    b.className = 'chip'; b.type = 'button'; b.textContent = v;
+    b.setAttribute('aria-pressed', state[key] === v);
+    b.onclick = () => { state[key] = v; if (key === 'setting') state.category = 'All'; draw(); };
+    return b;
+  }));
+  host.style.display = 'flex'; host.style.flexWrap = 'wrap'; host.style.gap = '8px';
+}
+
+function draw() {
+  chips($('settings'), ['All', ...new Set(all.map(e => e.setting[0].toUpperCase()+e.setting.slice(1)))], 'setting');
+  const inSetting = all.filter(e => state.setting === 'All' || e.setting === state.setting.toLowerCase());
+  chips($('cats'), ['All', ...new Set(inSetting.map(e => e.category))], 'category');
+  const q = state.q.toLowerCase();
+  const list = inSetting.filter(e => (state.category === 'All' || e.category === state.category) && e.name.toLowerCase().includes(q));
+  $('count').textContent = `${list.length} building${list.length === 1 ? '' : 's'}`;
+  $('season').textContent = state.season === 'summer' ? 'Show winter' : 'Show summer';
+  $('season').setAttribute('aria-pressed', state.season === 'winter');
+  $('grid').className = state.season;
+  $('grid').replaceChildren(...list.map(e => {
+    const c = document.createElement('button');
+    c.className = 'card'; c.type = 'button';
+    const pic = document.createElement('div'); pic.className = 'pic';
+    const [w, h] = (e.seasons[state.season] || Object.values(e.seasons)[0]).frame_size;
+    const el = sprite(e, state.season, 'se', Math.max(1, Math.min(2, Math.floor(Math.min(200 / w, 180 / h)))));
+    pic.append(el); lazy.observe(el);
+    const b = document.createElement('b'); b.textContent = e.name;
+    const s = document.createElement('small'); s.textContent = e.category;
+    c.append(pic, b, s);
+    c.onclick = () => open(e);
+    return c;
+  }));
+}
+
+function open(e) {
+  let angle = 'se';
+  const box = $('box');
+  const paint = () => {
+    box.replaceChildren();
+    const top = document.createElement('div'); top.className = 'top';
+    const h = document.createElement('h2'); h.textContent = e.name;
+    const x = document.createElement('button'); x.className = 'chip'; x.type = 'button'; x.textContent = 'Close'; x.onclick = () => box.close();
+    top.append(h, x);
+    const big = document.createElement('div'); big.className = 'big';
+    for (const season of Object.keys(e.seasons)) {
+      const p = document.createElement('div'); p.className = 'pic ' + season;
+      const [w, hh] = e.seasons[season].frame_size;
+      const el = sprite(e, season, angle, Math.max(1, Math.min(3, Math.floor(Math.min(250 / w, 280 / hh)))));
+      el.style.backgroundImage = `url(${el.dataset.src})`;
+      p.append(el); big.append(p);
+    }
+    const turn = document.createElement('div'); turn.className = 'row';
+    for (const a of ANGLES) {
+      const b = document.createElement('button'); b.className = 'chip'; b.type = 'button'; b.textContent = a.toUpperCase(); b.title = NAMES[a];
+      b.setAttribute('aria-pressed', a === angle); b.onclick = () => { angle = a; paint(); };
+      turn.append(b);
+    }
+    const files = document.createElement('div'); files.className = 'row';
+    files.append('Files: ');
+    for (const [season, s] of Object.entries(e.seasons)) {
+      for (const [label, href] of [[`${season} PNG`, s.image], [`${season} JSON`, s.image.replace('.png', '.json')]]) {
+        const a = document.createElement('a'); a.href = href; a.download = ''; a.textContent = label;
+        files.append(a);
+      }
+    }
+    box.append(top, big, turn, files);
+  };
+  paint();
+  box.showModal();
+}
+
+$('season').onclick = () => { state.season = state.season === 'summer' ? 'winter' : 'summer'; draw(); };
+$('q').oninput = ev => { state.q = ev.target.value; draw(); };
+$('box').onclick = ev => { if (ev.target === $('box')) $('box').close(); };
+fetch('buildings.json').then(r => r.json()).then(d => { all = d.sort((a, b) => b.complexity - a.complexity); draw(); });
+</script>
+</body>
+</html>
